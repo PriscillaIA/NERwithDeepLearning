@@ -1,5 +1,5 @@
 id: 0
-NOME DA CACHAÇA: Cachaça Três Coronéis e Cachaça Três Coronéis
+NOME DA CACHAÇA: Cachaça Três Coronéis
 PREÇO: R$ 35,00
 DESCRIÇÃO DA CACHAÇA: Cachaça Três Coronéis 700ml
 Volume: 750ml
@@ -700,9 +700,7 @@ São ideais para acompanhar sobremesas.
 Autenticamente mineira, produzida em Pitangui.
 Médio corpo, macio, excelente acidez, equilibrado.
 Ao palato confirma o autêntico sabor frutado amadeirado.
-Volume: 600ml Grad.
-Alc.
-: 40% Vol.
+Volume: 600ml Grad. Alc.: 40% Vol.
 Medalha: Bronze na ExpoCachaça 2016
 Volume: 600ml
 Graduação Alcoólica: 40%
@@ -1001,9 +999,7 @@ NOME DA CACHAÇA: Cachaça Capão da Palha Envelhecida 2 Anos 700ml
 PREÇO: R$ 79,90
 DESCRIÇÃO DA CACHAÇA: Cachaça Artesanal Capão da Palha Tradicional Envelhecida 2 Anos em Madeira Brasileira Canela Amarela – 700ml Produzida na Fazenda Capão da Palha em um lindo vale na Chapada dos Veadeiros, nordeste de Goiás.
 Diferente da imensa maioria, o envelhecimento na Madeira Brasileira Canela Amarela dá um sabor único, bem diferente dos toneis comuns de carvalho americano ou europeu.
-ORIGEM: Chapada dos Veadeiro/GO MADEIRA: Canela Amarela ENVELHECIMENTO: 2 anos Grad.
-Alcoólica.
-: 39% Volume: 700ml
+ORIGEM: Chapada dos Veadeiro/GO MADEIRA: Canela Amarela ENVELHECIMENTO: 2 anos Grad. Alcoólica.: 39% Volume: 700ml
 Volume: 700ml
 TEMPO DE ARMAZENAMENTO: 2 Anos
 id: 92
@@ -1426,8 +1422,7 @@ País: Brasil
 Região:São Tiago / MG
 Fabricante: Espírito de Minas
 GRADUAÇÃO ALCOÓLICA: 42%
-LOCAL DE PRODUÇÃO: São Tiago / MG
-Brasil
+LOCAL DE PRODUÇÃO: São Tiago / MG Brasil
 id: 140
 NOME DA CACHAÇA: Cachaça Dois Dedos De Minas Prata 700 ml
 PREÇO: R$76,82
@@ -1441,8 +1436,7 @@ Teor Alcoólico:40%
 País:Brasil
 Região:Piranguçu / MG
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Piranguçu / MG
-Brasil
+LOCAL DE PRODUÇÃO: Piranguçu / MG Brasil
 id: 141
 NOME DA CACHAÇA: Cachaça Salinas 700 ml
 PREÇO: R$85,45
@@ -1490,8 +1484,7 @@ País:Brasil
 Região:Senador José Bento /MG
 GRADUAÇÃO ALCOÓLICA: 15%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em nenhuma madeira.
-LOCAL DE PRODUÇÃO: Senador José Bento /MG
-Brasil
+LOCAL DE PRODUÇÃO: Senador José Bento /MG Brasil
 id: 144
 NOME DA CACHAÇA: Cachaça 51 Reserva Rara Extra Premium 700 ml
 PREÇO: R$261,14
@@ -1536,8 +1529,7 @@ Teor Alcóolico:48%
 País:Brasil
 Região: Jandaia do Sul -Pr
 GRADUAÇÃO ALCOÓLICA: 48%
-LOCAL DE PRODUÇÃO: Jandaia do Sul -Pr
-Brasil
+LOCAL DE PRODUÇÃO: Jandaia do Sul -Pr Brasil
 id: 149
 NOME DA CACHAÇA: Cachaça Boa Prosa Porcelana Ouro 700 ml
 PREÇO: R$190,51
@@ -1548,8 +1540,7 @@ Teor Alcoolico:39%
 País:Brasil
 Região:Carmo de Minas / MG
 GRADUAÇÃO ALCOÓLICA: 39%
-LOCAL DE PRODUÇÃO: Carmo de Minas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Carmo de Minas / MG Brasil
 id: 150
 NOME DA CACHAÇA: Cachaça Salinas Umburana 700 ml
 PREÇO: R$80,43
@@ -1573,8 +1564,7 @@ Teor Alcoólico: 42%
 País: Brasil
 Região:Salinas/MG
 GRADUAÇÃO ALCOÓLICA: 42%
-LOCAL DE PRODUÇÃO: Salinas/MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas/MG Brasil
 paladar: notas discretas adocicadas de canela e baunilha
 aparência: amarelo-ouro-clara, límpida e brilhante.
 olfato: elegante e persistente. notas discretas adocicadas de canela e baunilha.sensação aveludada e licorosa na boca. retrogosto agradável e moderado.
@@ -1620,8 +1610,7 @@ Região:Salinas / MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 42%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em tonéis de umburana — planta conhecida por suas características curativas e digestivas.
-LOCAL DE PRODUÇÃO: Salinas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas / MG Brasil
 paladar: seu sabor é levemente adocicado com notas finais de baunilha, amêndoas e canela.
 aparência: levemente dourada, límpida e brilhante.
 olfato: possui aromas intensos:amadeirados, frutados, adocicados, com notas de baunilha.
@@ -1673,8 +1662,7 @@ Pais: Brasil
 Estado: São Paulo
 Produtor: Cachacaria D’Gusta
 GRADUAÇÃO ALCOÓLICA: 20%
-LOCAL DE PRODUÇÃO: São Paulo
-Brasil
+LOCAL DE PRODUÇÃO: São Paulo Brasil
 id: 156
 NOME DA CACHAÇA: Cachaça Orgulho Mineiro 670 ml
 PREÇO: R$127,91
@@ -1696,8 +1684,7 @@ País: Brasil
 Região: Borda da Mata- MG
 GRADUAÇÃO ALCOÓLICA: 40%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em tonéis de carvalho.
-LOCAL DE PRODUÇÃO: Borda da Mata- MG
-Brasil
+LOCAL DE PRODUÇÃO: Borda da Mata- MG Brasil
 id: 157
 NOME DA CACHAÇA: Cachaça Salinas Balsamo 600 ml
 PREÇO: R$65,28
@@ -1718,8 +1705,7 @@ Teor alcoólico: 15%
 País:Brasil
 Região:Senador José Bento /MG
 GRADUAÇÃO ALCOÓLICA: 15%
-LOCAL DE PRODUÇÃO: Senador José Bento /MG
-Brasil
+LOCAL DE PRODUÇÃO: Senador José Bento /MG Brasil
 aparência: vibrante, frequentemente consumida inteira. produzida com cachaça prata descansada e adoçada com rapadura, a nobre minas rapadura e jabuticaba com cachaça tem o seu sabor diferencial por possuir como componente de seus ingredientes, a fruta in natura.
 id: 159
 NOME DA CACHAÇA: Cachaça Salinas Umburana 600 ml
@@ -1747,8 +1733,7 @@ País:Brasil
 Região:Senador José Bento /MG
 GRADUAÇÃO ALCOÓLICA: 15%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em nenhuma madeira.
-LOCAL DE PRODUÇÃO: Senador José Bento /MG
-Brasil
+LOCAL DE PRODUÇÃO: Senador José Bento /MG Brasil
 id: 161
 NOME DA CACHAÇA: Cachaça 51 Reserva Singular Extra Premium 700 ml
 PREÇO: R$260,43
@@ -1781,8 +1766,7 @@ Região:Salinas / MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 42%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em tonéis de umburana — planta conhecida por suas características curativas e digestivas.
-LOCAL DE PRODUÇÃO: Salinas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas / MG Brasil
 paladar: seu sabor é levemente adocicado com notas finais de baunilha, amêndoas e canela.
 aparência: levemente dourada, límpida e brilhante.
 olfato: possui aromas intensos:amadeirados, frutados, adocicados, com notas de baunilha.
@@ -1824,8 +1808,7 @@ Região:São Tiago / MG
 Fabricante: Espírito de Minas
 GRADUAÇÃO ALCOÓLICA: 40%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em barris de carvalho selecionados.
-LOCAL DE PRODUÇÃO: São Tiago / MG
-Brasil
+LOCAL DE PRODUÇÃO: São Tiago / MG Brasil
 id: 165
 NOME DA CACHAÇA: Cachaça Lua Nova 600 ml
 PREÇO: R$52,33
@@ -1833,9 +1816,7 @@ VOLUME: 600ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Lua Nova Garrafa Característica: Conhecida mundialmente, a Cachaça Salinas é uma das cachaças mais requisitadas no Brasil e no exterior.
 É envelhecida em dornas de Bálsamo por 2 anos e meio, sendo uma cachaça suave, que agrada ao paladar mais exigente.
 Produzida na cidade de Salinas MG na Fazenda Canadá - Matrona.
-Grad.
-Alcool.
-: 45 % vol.
+Grad. Alcool.: 45 % vol.
 Conteúdo : 600 ml .
 Garrafa 600 ml.
 GRADUAÇÃO ALCOÓLICA: 45%
@@ -1854,8 +1835,7 @@ Teor Alcoólico:40%
 País:Brasil
 Região:Piranguçu / MG
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Piranguçu / MG
-Brasil
+LOCAL DE PRODUÇÃO: Piranguçu / MG Brasil
 TEMPO DE ARMAZENAMENTO: Envelhecida por 2 anos
 id: 167
 NOME DA CACHAÇA: Cachaça Saliboa 600 ml
@@ -1887,8 +1867,7 @@ País:Brasil
 Região:Salinas - MG
 GRADUAÇÃO ALCOÓLICA: 42%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em barris de bálsamo, madeira brasileira, tradicionalmente utilizada para o envelhecimento das melhores cachaças da região, que conferem características únicas à bebida.
-LOCAL DE PRODUÇÃO: Salinas - MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas - MG Brasil
 paladar: saborosa e aveludada.
 id: 169
 NOME DA CACHAÇA: Cachaça Nobre Minas Rapadura/Coco 670 ml
@@ -1907,8 +1886,7 @@ País:Brasil
 Região:Senador José Bento /MG
 GRADUAÇÃO ALCOÓLICA: 15%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em nenhuma madeira.
-LOCAL DE PRODUÇÃO: Senador José Bento /MG
-Brasil
+LOCAL DE PRODUÇÃO: Senador José Bento /MG Brasil
 id: 170
 NOME DA CACHAÇA: Cachaça Boazinha 1000 ml
 PREÇO: R$86,87
@@ -1940,8 +1918,7 @@ Teor Alcoolico:40%
 País:Brasil
 Região:Carmo de Minas / MG
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Carmo de Minas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Carmo de Minas / MG Brasil
 id: 173
 NOME DA CACHAÇA: Cachaça Paje Jambu 700 ml
 PREÇO: R$123,86
@@ -1958,8 +1935,7 @@ Teor Alcoólico: 28%
 País:Brsil
 Região:Senador José Bento/MG
 GRADUAÇÃO ALCOÓLICA: 28%
-LOCAL DE PRODUÇÃO: Senador José Bento/MG
-Brsil
+LOCAL DE PRODUÇÃO: Senador José Bento/MG Brsil
 paladar: inesquecível, a rapadura traz um docinho perfeito combinado com o jambu
 id: 174
 NOME DA CACHAÇA: Cachaça Nobre Minas Ouro 670 ml
@@ -1972,8 +1948,7 @@ Teor alcoólico: 40%
 País:Brasil
 Região:Senador José Bento /MG
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Senador José Bento /MG
-Brasil
+LOCAL DE PRODUÇÃO: Senador José Bento /MG Brasil
 id: 175
 NOME DA CACHAÇA: Cachaça Seleta 1000 ml
 PREÇO: R$88,63
@@ -2001,8 +1976,7 @@ Região:Salinas / MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 42%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em tonéis de umburana — planta conhecida por suas características curativas e digestivas.
-LOCAL DE PRODUÇÃO: Salinas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas / MG Brasil
 paladar: seu sabor é levemente adocicado com notas finais de baunilha, amêndoas e canela.
 aparência: levemente dourada, límpida e brilhante.
 olfato: possui aromas intensos:amadeirados, frutados, adocicados, com notas de baunilha.
@@ -2025,8 +1999,7 @@ Teor Alcoolico:42%
 País: Brasil
 Região:Salinas - MG
 GRADUAÇÃO ALCOÓLICA: 42%
-LOCAL DE PRODUÇÃO: Salinas - MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas - MG Brasil
 aparência: amarelo-clara, possui uma mescla de aromas de erva-doce e anis. no paladar, traz um gosto salgado. além disso, causa uma sensação licorosa e picante na boca. retrogosto agradável e moderado.
 id: 177
 NOME DA CACHAÇA: Cachaça 51 Reserva Unica Extra Premium 700 ml
@@ -2074,8 +2047,7 @@ Região:Salinas / MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 42%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em tonéis de bálsamo são conhecidas pelo seu sabor suave e aroma intenso de ervas.
-LOCAL DE PRODUÇÃO: Salinas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas / MG Brasil
 paladar: suave, ovos de codorna, macadâmia, queijos brancos, conservas, batata sauté ou mesmo frutas, como carambola, pêssego, melão e manga.
 paladar: sabor suave com notas de anis e acidez equilibrada.
 aparência: dourada, límpida e brilhante.
@@ -2138,8 +2110,7 @@ País:Brasil
 Região:Senador José Bento /MG
 GRADUAÇÃO ALCOÓLICA: 15%
 RECIPIENTE DE ARMAZENAMENTO: Envelhecida em nenhuma madeira.
-LOCAL DE PRODUÇÃO: Senador José Bento /MG
-Brasil
+LOCAL DE PRODUÇÃO: Senador José Bento /MG Brasil
 id: 185
 NOME DA CACHAÇA: Cachaça Bassi Prata 670 ml
 VOLUME: 670ml
@@ -2165,8 +2136,7 @@ País: Brasil
 Região:Salinas / MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Salinas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas / MG Brasil
 paladar: suave e aroma adocicado, é também ideal para outros drinks e combinações com frutas. suas notas vegetais que remetem à cana recém-cortada e o seu toque aveludado permitem perfeitamente que ela também seja servida pura. copos criados especialmente para caipirinhas e drinks
 paladar: suave e toque aveludado
 aparência: possui aparência cristalina e brilhante
@@ -2199,8 +2169,7 @@ País: Brasil
 Região:Salinas/MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 42%
-LOCAL DE PRODUÇÃO: Salinas/MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas/MG Brasil
 TEMPO DE ARMAZENAMENTO: Envelhecida por 7 anos
 aparência: forte e escura, resultado de toda a experiência e excelência da seleta na produção da bebida. a “joia líquida”, como ficou conhecida, é sinônimo de sabor agradável e de boa intensidade.
 paladar: agradável e de boa intensidade.
@@ -2235,8 +2204,7 @@ Armazenamento:Carvalho
 País:Brasil
 Região: Ervália/MG
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Ervália/MG
-Brasil
+LOCAL DE PRODUÇÃO: Ervália/MG Brasil
 aroma: agradável, equilibrada, suave, com retrogosto suave e persistente. por ser bastante suave agrada o público feminino.
 id: 190
 NOME DA CACHAÇA: Cachaça Cabare Ouro 700 ml
@@ -2290,8 +2258,7 @@ País: Brasil
 Região:Salinas / MG
 Fabricante: Seleta
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Salinas / MG
-Brasil
+LOCAL DE PRODUÇÃO: Salinas / MG Brasil
 paladar: suave e aroma adocicado, é também ideal para outros drinks e combinações com frutas. suas notas vegetais que remetem à cana recém-cortada e o seu toque aveludado permitem perfeitamente que ela também seja servida pura. copos criados especialmente para caipirinhas e drinks
 paladar: suave e toque aveludado
 aparência: possui aparência cristalina e brilhante
@@ -2315,8 +2282,7 @@ País:Brasil
 Região:Mirassol / SP
 Fabricante: Cabare
 GRADUAÇÃO ALCOÓLICA: 40%
-LOCAL DE PRODUÇÃO: Mirassol / SP
-Brasil
+LOCAL DE PRODUÇÃO: Mirassol / SP Brasil
 id: 195
 NOME DA CACHAÇA: Cachaça Fulô 1827 Jequitibá 750 ml
 VOLUME: 750ml
@@ -2831,9 +2797,7 @@ PREÇO: R$100,00
 VOLUME: 670 ml.
 DESCRIÇÃO DA CACHAÇA: Cachaça Companheira Extra Premium Carvalho, a cachaça agradável, com notas suaves de baunilha, envelhecida 4 anos em barril de carvalho americano e finalizada em barris de carvalho francês de primeiro uso.
 Novo Rótulo 2021.
-Carcaterísticas:
-670 ml.
-40% em volume.
+Carcaterísticas: 670 ml. 40% em volume.
 Envelhecida 4 anos em barril de carvalho.
 Sobre a Produção da Cachaça Companheira Extra Premium Carvalho:
 Elaborada por um processo único de destilação padronizada, em Jandaia do Sul, região do Vale do Rio Ivaí, no norte do Paraná.
@@ -3004,8 +2968,7 @@ id: 239
 NOME DA CACHAÇA: Cachaça Companheira Prata Exportação
 PREÇO: R$49,00
 DESCRIÇÃO DA CACHAÇA: A cachaça de aroma delicado e sabor suave, própria para paladares exigentes.
-Premiações:
-• Medalha de prata no Concurso de Degustação às Cegas 2014, realizado durante a Expocachaça, em Belo Horizonte – MG.
+Premiações: • Medalha de prata no Concurso de Degustação às Cegas 2014, realizado durante a Expocachaça, em Belo Horizonte – MG.
 • Medalha de bronze no Concurso de Degustação às Cegas 2012, realizado durante a Expocachaça Dose Dupla no Mercado Municipal de São Paulo.
 • 500 ml – Linha Exportação.
 • 40% em volume.
@@ -3039,9 +3002,7 @@ id: 242
 NOME DA CACHAÇA: Cachaça Gramiais
 PREÇO: R$ 29,90
 Volume: 600 ml
-DESCRIÇÃO DA CACHAÇA: Grad.
-Alcool.
-: 42,% Vol.)
+DESCRIÇÃO DA CACHAÇA: Grad. Alcool.: 42,% Vol.)
 Envelhecida em barril de Balsamo
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 600 ml
@@ -3053,10 +3014,7 @@ id: 243
 NOME DA CACHAÇA: Cachaça Seleta 270 ml
 PREÇO: R$ 24,90
 Volume: 270 ml
-DESCRIÇÃO DA CACHAÇA: Cachaça Seleta
-Grad.
-Alcool.
-: 44 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Cachaça Seleta Grad. Alcool.: 44 % Vol.)
 Envelhecimento: 2 anos em Umburana
 Conteúdo : 270 ml
 Garrafa : transparente
@@ -3088,9 +3046,7 @@ A Cachaça Nova Aliança foi criada pensando estabelecer relação de confiança
 e o reconhecimento do consumidor junto ao produtor industria, Comercio e Exportação de Cachaça
 Beija - Flor Ltda, empresa familiar de Salinas que está no mercado desde de 1988, que tamnbem produz a famosa e tradicional Indaiazinha.
 Alem de ser uma exelente Cachaça e um Exelente Presente, concerteza a pessoa presenteada vai ficar muito Surpresa e Feliz.
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Balsamo
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 600 ml
@@ -3120,9 +3076,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Havaninha, mais uma filha da Fámilia Santiago
 A Cachaça Havaninha recem lançada 2014 com produção limitada e um rigoroso processo de seleção das canas e processo de fabricação é armazenada e envelhecida em toneis de Balsamo por 05 anos.
 Tem pouco tempo mais já vem conquistando apreciadores de todo Brasil e do mundo !
 Informações do produto
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Tónel de Balsamo
 Tempo de Envelhecimento: 05 Anos
 Conteúdo : 600 ml
@@ -3136,9 +3090,7 @@ NOME DA CACHAÇA: Miniatura Seleta
 PREÇO: R$ 12,90
 Volume: 50 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Seleta 50 ml
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecimento: 2 anos em Umburana
 Conteúdo : 50 ml
 Garrafa : miniatura
@@ -3150,18 +3102,14 @@ id: 249
 NOME DA CACHAÇA: Miniatura Terra de Ouro Prata
 PREÇO: R$ 9,90
 Volume: 50 ml
-DESCRIÇÃO DA CACHAÇA: Terra de Ouro Prata 50 ML Grad.
-Alcool.
-: 44 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Terra de Ouro Prata 50 ML Grad. Alcool.: 44 % Vol.)
 Conteúdo : 50 ml Garrafa : Miniatura  Prazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool
 Grad. Alcool: 44%
 id: 250
 NOME DA CACHAÇA: Miniatura Terra de Ouro Balsamo
 PREÇO: R$ 9,90
 Volume: 50 ml
-DESCRIÇÃO DA CACHAÇA: Terra de Ouro Balsamo 50 ML Grad.
-Alcool.
-: 44 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Terra de Ouro Balsamo 50 ML Grad. Alcool.: 44 % Vol.)
 Conteúdo : 50 ml Garrafa : Miniatura  Prazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool
 Grad. Alcool: 44%
 id: 251
@@ -3189,9 +3137,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Balsamo
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 50 ml
@@ -3213,9 +3159,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em Umburana
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 50 ml
@@ -3237,9 +3181,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Jequitibá
 Tempo de Envelhecimento: 2 Anos
 Conteúdo : 670 ml
@@ -3261,9 +3203,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Umburana
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 670 ml
@@ -3285,9 +3225,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Balsamo
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 670 ml
@@ -3309,9 +3247,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Jequitibá
 Tempo de Envelhecimento: 2 Anos
 Conteúdo : 50 ml
@@ -3333,9 +3269,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Jequitibá
 Tempo de Envelhecimento: 2 Anos
 Conteúdo : 600 ml
@@ -3357,9 +3291,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Umburana
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 600 ml
@@ -3381,9 +3313,7 @@ umburana e jequitibá.
 Tais madeiras conferem a bebida paladar incomparáveis para quem aprecia a mais
 genuina bebida brasileira A CACHAÇA
 Experimente e Comprove !
-Grad.
-Alcool.
-: 48 % Vol.)
+Grad. Alcool.: 48 % Vol.)
 Envelhecida em  Balsamo
 Tempo de Envelhecimento: 3 Anos
 Conteúdo : 600 ml
@@ -3429,9 +3359,7 @@ e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem
 à cachaça Sabor de Minas um agradável e incomparável
 sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave
 paladar como pela sua qualidade.
-Grad.
-Alcool.
-: 42,0 % Vol.)
+Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG)
 Conteúdo : 250 ml
 Garrafa : Tipo Moringa Porcelana
@@ -3459,18 +3387,13 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas Cristalina 600 ML
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas Cristalina descança em tonei de aço inox -  tornando - se uma exelente cachaça para caipirinhas e outras misturas.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Garrafa: Tradicional 600 ML
 Evite o Consumo exessivo de Alcool
-Peso :
-1,100  Kg
-Altura :
-30  Cm
-Largura :
-8   Cm
-Comprimento :
-8  Cm
+Peso : 1,100  Kg
+Altura : 30  Cm
+Largura : 8   Cm
+Comprimento : 8  Cm
 Este produto não possui avaliações
 Produzida em: Região
 id: 267
@@ -3481,8 +3404,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas Cristalina 700 ML
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas Cristalina descança em tonei de aço inox -  tornando - se uma exelente cachaça para caipirinhas e outras misturas.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Garrafa: Transparente 700 ML
 Evite o Consumo exessivo de Alcool
 Produzida em: Região
@@ -3494,20 +3416,15 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas em Balsamo 300 ML
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas em Balsamo tem 2 anos de Envelhecimento tornando - se uma exelente cachaça.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Madeira: Balsamo
 Envelhecimento: 2 anos
 Garrafa: Transparente 300 ML
 Evite o Consumo exessivo de Alcool
-Peso :
-1,100  Kg
-Altura :
-30  Cm
-Largura :
-8   Cm
-Comprimento :
-8  Cm
+Peso : 1,100  Kg
+Altura : 30  Cm
+Largura : 8   Cm
+Comprimento : 8  Cm
 Este produto não possui avaliações
 Produzida em: Região
 Tempo de Envelhecimento: 2 anos
@@ -3519,20 +3436,15 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas em Umburana 700 ML
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas em Umburana tem 2 anos de Envelhecimento tornando - se uma exelente cachaça.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Madeira: Umburana
 Envelhecimento: 2 anos
 Garrafa: Transparente 700 ML
 Evite o Consumo exessivo de Alcool
-Peso :
-1,100  Kg
-Altura :
-30  Cm
-Largura :
-8   Cm
-Comprimento :
-8  Cm
+Peso : 1,100  Kg
+Altura : 30  Cm
+Largura : 8   Cm
+Comprimento : 8  Cm
 Este produto não possui avaliações
 Produzida em: Região
 Tempo de Envelhecimento: 2 anos
@@ -3544,8 +3456,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas em Umburana
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas em Umburana tem 2 anos de Envelhecimento tornando - se uma exelente cachaça.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Madeira: Umburana
 Envelhecimento: 2 anos
 Garrafa: Tradicional 600 ML
@@ -3560,8 +3471,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas em Balsamo 700 ML
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas em Balsamo tem 2 anos de Envelhecimento tornando - se uma exelente cachaça.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Madeira: Balsamo
 Envelhecimento: 2 anos
 Garrafa: Transparente 700 ML
@@ -3578,14 +3488,10 @@ Produzida na Regiãos de Salinas
 Envelhecimento em Umburana 2 Anos
 Garrafa Transparente 700 ML
 Evite o consumo exessivo de Alcool
-Peso :
-1,100  Kg
-Altura :
-30  Cm
-Largura :
-8   Cm
-Comprimento :
-8  Cm
+Peso : 1,100  Kg
+Altura : 30  Cm
+Largura : 8   Cm
+Comprimento : 8  Cm
 Este produto não possui avaliações
 id: 273
 NOME DA CACHAÇA: Cachaça Lua Nova 300 ML
@@ -3624,9 +3530,7 @@ NOME DA CACHAÇA: Seleta Porcelana 670 ML
 PREÇO: R$ 89,90
 Volume: 670 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Seleta Porcelana 670 ML 
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecimento: 2 anos em Umburana
 Conteúdo : 670 ML
 Garrafa : Porcelana
@@ -3639,9 +3543,7 @@ NOME DA CACHAÇA: Seleta Porcelana 120 ML
 PREÇO: R$ 49,90
 Volume: 120 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Seleta Porcelana 120 ML 
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecimento: 2 anos em Umburana
 Conteúdo : 120 ml
 Garrafa : Porcelana Bolso
@@ -3654,9 +3556,7 @@ NOME DA CACHAÇA: Boazinha Porcelana 670 ML
 PREÇO: R$ 89,90
 Volume: 670 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça boazinha Porcelana 670 ML
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecida em  tónel: Balsamo
 Tempo de Envelhecimento: 2 á 3 Anos
 Conteúdo : 670 ml
@@ -3670,9 +3570,7 @@ NOME DA CACHAÇA: Boazinha Porcelana 120 ML
 PREÇO: R$ 49,90
 Volume: 120 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça boazinha Porcelana Bolso
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecida em  tónel: Balsamo
 Tempo de Envelhecimento: 2 á 3 Anos
 Conteúdo : 120 ml
@@ -3689,8 +3587,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Fascinação Prata 670 ML
 Fascinação é uma Legitima Representante da Autentica Cachaça de qualidade da Região de Salinas, produzida em uma fabrica moderna exclusivamente com canaviais proprios e respeitando todos preceitos de preservação ambiental, O processo de produção segue a tradição da Região de Salinas, tanto no que diz respeito ao cultivo da cana como a fermentação natural em dornas de aço inox, a destilação em alambiques de cobre e o envelhecimento em toneis de balsamo.
 Um dos nossos objetivos e contribuir com a Perpetuação do Fascinio que a Cachaça da Região de Salinas Provoca em todos os lugares onde há apreciadores de bom gosto.
 Nesta Versão a Cachaça descança en toneis de Aço inox essa e ideal p fazer Caipirinha
-Caracteristicas
-Produzida na Região de Salinas
+Caracteristicas Produzida na Região de Salinas
 Envelhecimento: Aço Inox
 Graduação Alc: 44 %
 Garrafa: Tradicional
@@ -3703,8 +3600,7 @@ Volume: 670 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Fascinação Ouro 670 ML
 Fascinação é uma Legitima Representante da Autentica Cachaça de qualidade da Região de Salinas, produzida em uma fabrica moderna exclusivamente com canaviais proprios e respeitando todos preceitos de preservação ambiental, O processo de produção segue a tradição da Região de Salinas, tanto no que diz respeito ao cultivo da cana como a fermentação natural em dornas de aço inox, a destilação em alambiques de cobre e o envelhecimento em toneis de balsamo.
 Um dos nossos objetivos e contribuir com a Perpetuação do Fascinio que a Cachaça da Região de Salinas Provoca em todos os lugares onde há apreciadores de bom gosto
-Caracteristicas
-Produzida na Região de Salinas
+Caracteristicas Produzida na Região de Salinas
 Envelhecimento: Balsamo 3 anos
 Graduação Alc: 44 %
 Garrafa: Transparente
@@ -3716,9 +3612,7 @@ PREÇO: R$ 79,90
 Volume: 700 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Terra de ouro Porcelana 700 ML
 Esta e uma versão especial da Terra de Ouro agora em Porcelana
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecimento: 2 anos em Balsamo
 Conteúdo : 700 ml
 Garrafa : Porcelana
@@ -3739,9 +3633,7 @@ São comercializadas no MÁXIMO sete mil garrafas de 600 ml no mercado por ano.
 Com esse método reservado controla-se o estoque da cachaça (envelhecida) disponível para comercialização ao longo do ano.
 Com isso a cachaça tornou-se extremamente valorizada e muito cobiçada.
 Informações do produto
-Grad.
-Alcool.
-: 47 % Vol.)
+Grad. Alcool.: 47 % Vol.)
 Envelhecida em  tónel: Balsamo
 Tempo de Envelhecimento: 8 Anos
 Conteúdo : 600 ml
@@ -3765,9 +3657,7 @@ São comercializadas no MÁXIMO sete mil garrafas de 600 ml no mercado por ano.
 Com esse método reservado controla-se o estoque da cachaça (envelhecida) disponível para comercialização ao longo do ano.
 Com isso a cachaça tornou-se extremamente valorizada e muito cobiçada.
 Informações do produto
-Grad.
-Alcool.
-: 47 % Vol.)
+Grad. Alcool.: 47 % Vol.)
 Envelhecida em  tónel: Balsamo
 Tempo de Envelhecimento: 12 Anos
 Conteúdo : 600 ml
@@ -3785,8 +3675,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Salinas em Balsamo 600 ML
 Com mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas em Balsamo tem 2 anos de Envelhecimento tornando - se uma exelente cachaça.
 Cachaça pra quem gosta e conhece realmente de Cachaça
-Caracteristicas
-Produzida: Região de Salinas
+Caracteristicas Produzida: Região de Salinas
 Madeira: Balsamo
 Envelhecimento: 2 anos
 Garrafa: Tradicional 600 ML
@@ -3794,20 +3683,16 @@ Evite o Consumo exessivo de Alcool
 A Cachaça que leva o nome da cidade de Salinas
 Colheita da Cana
 A colheita é feita no período de maio a novembro, época em que o teor de açúcar da cana é mais acentuado proporcionando uma melhor qualidade e aproveitamento do caldo extraído.
-Fermentação
-Nesta etapa, após a moagem da cana, tem-se o caldo da cana, também chamado de garapa que é colocado em um reservatório chamado dorna de fermentação.
+Fermentação Nesta etapa, após a moagem da cana, tem-se o caldo da cana, também chamado de garapa que é colocado em um reservatório chamado dorna de fermentação.
 A ela é adicionado um composto chamado fermento (preparado à base de milho torrado e farelo de arroz).
 Através do processo chamado fermentação (processo de transformação de uma substância em outra, produzida a partir de microorganismos) as leveduras se multiplicam alimentando-se do açúcar existente na garapa, transformando o açúcar em álcool.
-Destilação
-O mosto fermentado, resultado da etapa anterior, é colocado em um alambique de cobre para obtenção do produto final: a cachaça.
+Destilação O mosto fermentado, resultado da etapa anterior, é colocado em um alambique de cobre para obtenção do produto final: a cachaça.
 Na alambicagem (destilação), tem-se a cachaça e seus 3 fragmentos:
 - a cabeça, fase caracterizada por ser a primeira a sair do alambique (cerca de 13% é considerado altamente tóxico, a qual será desprezada);
 - o coração, cerca de 75%, considerado o corpo ou a parte central da cachaça alambicada;
-Envelhecimento
-As tradicionais cachaças Salinas e Lua nova passam por um período de descanso ou envelhecimento de dois anos e meio em dornas próprias.
+Envelhecimento As tradicionais cachaças Salinas e Lua nova passam por um período de descanso ou envelhecimento de dois anos e meio em dornas próprias.
 A cachaça Salinas tradicional em tonéis de Bálsamo, resultando em uma tonalidade mais amarelada e passando a sensação de ser forte e encorpada.
-Engarrafamento
-O processo de engarrafamento se divide em cinco etapas bem definidas, onde nos respaldamos na utilização de equipamentos que garantem um alto padrão de higiene e qualidade.
+Engarrafamento O processo de engarrafamento se divide em cinco etapas bem definidas, onde nos respaldamos na utilização de equipamentos que garantem um alto padrão de higiene e qualidade.
 - esterilização das garrafas
 - envasamento (enchimento das garrafas)
 - fechamento das garrafas
@@ -3821,8 +3706,7 @@ Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Fascinação Ouro 600 ML
 Fascinação é uma Legitima Representante da Autentica Cachaça de qualidade da Região de Salinas, produzida em uma fabrica moderna exclusivamente com canaviais proprios e respeitando todos preceitos de preservação ambiental, O processo de produção segue a tradição da Região de Salinas, tanto no que diz respeito ao cultivo da cana como a fermentação natural em dornas de aço inox, a destilação em alambiques de cobre e o envelhecimento em toneis de balsamo.
 Um dos nossos objetivos e contribuir com a Perpetuação do Fascinio que a Cachaça da Região de Salinas Provoca em todos os lugares onde há apreciadores de bom gosto
-Caracteristicas
-Produzida na Região de Salinas
+Caracteristicas Produzida na Região de Salinas
 Envelhecimento: Balsamo 3 anos
 Graduação Alc: 44 %
 Garrafa: Tradicional
@@ -3838,10 +3722,7 @@ e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem
 à cachaça Sabor de Minas um agradável e incomparável
 sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave
 paladar como pela sua qualidade.
-Caracteristicas
-Grad.
-Alcool.
-: 42,0 % Vol.)
+Caracteristicas Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG)
 Conteúdo : 950 ml
 Garrafa : Tipo Porcelana
@@ -3856,10 +3737,7 @@ e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem
 à cachaça Sabor de Minas um agradável e incomparável
 sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave
 paladar como pela sua qualidade.
-Caracteristicas
-Grad.
-Alcool.
-: 42,0 % Vol.)
+Caracteristicas Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG)
 Conteúdo : 670 ml
 Garrafa : Tipo Porcelana
@@ -3868,16 +3746,13 @@ id: 289
 NOME DA CACHAÇA: Cachaça Asa Branca 670 ML
 PREÇO: R$ 39,90
 Volume: 670 ml
-DESCRIÇÃO DA CACHAÇA: Cachaça Asa Branca 670 ML Uma das mais antigas de Salinas produção limitada e totalmente Artesanal Caracteristicas Grad.
-Alc.
-40% Fabricada em Salinas Garrafa: Tradicional Conteudo: 670 ML Prazo de Validade Indeterminado
+DESCRIÇÃO DA CACHAÇA: Cachaça Asa Branca 670 ML Uma das mais antigas de Salinas produção limitada e totalmente Artesanal Caracteristicas Grad. Alc. 40%
+Fabricada em Salinas Garrafa: Tradicional Conteudo: 670 ML Prazo de Validade Indeterminado
 id: 290
 NOME DA CACHAÇA: Sabor de Minas 500 ML
 PREÇO: R$ 24,90
 Volume: 500 ml
-DESCRIÇÃO DA CACHAÇA: Cachaça Sabor de Minas 500 ML Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamoe jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantemà cachaça Sabor de Minas um agradável e incomparávelsabor, destacando-se entre as melhores de Salinas, tanto pelo seu suavepaladar como pela sua qualidade.Grad.
-Alcool.
-: 42,0 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Cachaça Sabor de Minas 500 ML Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamoe jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantemà cachaça Sabor de Minas um agradável e incomparávelsabor, destacando-se entre as melhores de Salinas, tanto pelo seu suavepaladar como pela sua qualidade.Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG) Tempo de Envelhecimento: 2 Anos Conteúdo : 500 ml Garrafa : Tipo Garrafa Transparente      Prazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool
 Tempo de Envelhecimento: 2 anos
 Grad. Alcool: 42,0%
@@ -3891,23 +3766,16 @@ e jequitibá, baixíssima acidez e graduação alcoólica de 42 GL, garantem
 à cachaça Sabor de Minas um agradável e incomparável
 sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave
 paladar como pela sua qualidade.
-Caracteristicas
-Grad.
-Alcool.
-: 42,0 % Vol.)
+Caracteristicas Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG)
 Conteúdo : 670 ml
 Garrafa: Porcelana Preta banhada com Fios de Ouro
 Prazo de Validade: Indeterminado
 Evite o consumo Excessivo de Álcool
-Peso :
-1,200  Kg
-Altura :
-30  Cm
-Largura :
-8   Cm
-Comprimento :
-8  Cm
+Peso : 1,200  Kg
+Altura : 30  Cm
+Largura : 8   Cm
+Comprimento : 8  Cm
 Este produto não possui avaliações
 Grad. Alcool: 42,0%
 id: 292
@@ -3915,9 +3783,7 @@ NOME DA CACHAÇA: Cachaça Salicana 670 ML
 PREÇO: R$ 34,90
 Volume: 670 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Salicana 670 ML
-Grad.
-Alcool.
-: 42 % Vol.)
+Grad. Alcool.: 42 % Vol.)
 Conteúdo : 670 ml
 Garrafa : transparente
 Prazo de Validade : Indeterminado
@@ -3932,16 +3798,13 @@ id: 294
 NOME DA CACHAÇA: Cachaça Asa Branca 600 ML
 PREÇO: R$ 34,90
 Volume: 600 ml
-DESCRIÇÃO DA CACHAÇA: Cachaça Asa Branca 600 ML Uma das mais antigas de Salinas produção limitada e totalmente Artesanal Caracteristicas Grad.
-Alc.
-40% Fabricada em Salinas Garrafa: Tradicional Conteudo: 600 ML Prazo de Validade Indeterminado
+DESCRIÇÃO DA CACHAÇA: Cachaça Asa Branca 600 ML Uma das mais antigas de Salinas produção limitada e totalmente Artesanal Caracteristicas Grad. Alc.40%
+Fabricada em Salinas Garrafa: Tradicional Conteudo: 600 ML Prazo de Validade Indeterminado
 id: 295
 NOME DA CACHAÇA: Beleza de Minas 600 ML GP
 PREÇO: R$ 29,90
 Volume: 600 ml
-DESCRIÇÃO DA CACHAÇA: Beleza de Minas Ouro 600 ML Grad.
-Alcool.
-: 43 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Beleza de Minas Ouro 600 ML Grad. Alcool.: 43 % Vol.)
 Envelhecida em  tónel: Umburana Tempo de Envelhecimento: 2 anos Conteúdo : 600 ml Garrafa : Tradicional Prazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool
 Tempo de Envelhecimento: 2 anos
 Grad. Alcool: 43%
@@ -3950,9 +3813,7 @@ NOME DA CACHAÇA: Cachaça Majestade 600 ML
 PREÇO: R$ 29,90
 Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Majestade 600 ML
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Envelhecida em  tónel: Balsamo
 Tempo de Envelhecimento: 2  Anos
 Conteúdo : 600 ml
@@ -3966,9 +3827,7 @@ NOME DA CACHAÇA: Cachaça Salimel 600 ML
 PREÇO: R$ 44,90
 Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Salimel 600 ML
-Grad.
-Alcool.
-: 42 % Vol.)
+Grad. Alcool.: 42 % Vol.)
 Conteúdo : 600 ml
 Garrafa : Tradicional
 Prazo de Validade : Indeterminado
@@ -3984,10 +3843,7 @@ do mesmo produtor das cachaças  Seleta e Boazinha.
 O Nome: Referência para Salinas (capital da cachaça) e para qualidade da bebida.
 Produção: Caldo de cana fermentado, destilado e armazenado por dois anos.
 Especialidade: Produzida para agradar apreciadores exigentes.
-Caracteristicas
-Grad.
-Alcool.
-: 45,5 % Vol.)
+Caracteristicas Grad. Alcool.: 45,5 % Vol.)
 Envelhecimento: 2 anos Ipê Amarelo
 Produzida na cidade de Salinas (MG)
 Conteúdo : 600 ml
@@ -4000,19 +3856,15 @@ NOME DA CACHAÇA: Cachaça Valiosa 670 ML
 PREÇO: R$ 49,90
 Volume: 670 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Valiosa 670 ML
-Grad.
-Alcool.
-: 44,0 % Vol.
-)Envelhecimento em balsamoProduzida na cidade de Salinas(MG)Conteúdo : 670 MLGarrafa : Transparente MinasEvite o consumo Excessivo de ÁlcoolPrazo de Validade : Indeterminado
+Grad. Alcool.: 44,0 % Vol.)
+Envelhecimento em balsamoProduzida na cidade de Salinas(MG)Conteúdo : 670 MLGarrafa : Transparente MinasEvite o consumo Excessivo de ÁlcoolPrazo de Validade : Indeterminado
 Grad. Alcool: 44,0%
 id: 300
 NOME DA CACHAÇA: Terra de Ouro 600 ML
 PREÇO: R$ 29,90
 Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Terra de Ouro 600 ML
-Grad.
-Alcool.
-: 44 % Vol.)
+Grad. Alcool.: 44 % Vol.)
 Conteúdo : 600 ml
 Garrafa : Tradicional
 Prazo de Validade : Indeterminado
@@ -4023,8 +3875,7 @@ NOME DA CACHAÇA: Cachaça Salineira 670 ML
 PREÇO: R$ 69,90
 Volume: 670 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Salineira ( HAVANINHA ) 670 ML
-Grad.
-Alcool : 44,8%
+Grad. Alcool : 44,8%
 Produzida na cidade de Salinas (MG)
 Conteúdo: 670 ml
 6 Anos de Envelhecimento em Balsamo
@@ -4037,8 +3888,7 @@ NOME DA CACHAÇA: Cachaça Salineira 600 ML
 PREÇO: R$ 59,90
 Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Salineira ( HAVANINHA ) 600 ML
-Grad.
-Alcool : 44,8%
+Grad. Alcool : 44,8%
 Produzida na cidade de Salinas (MG)
 Conteúdo: 600 ml
 6 anos de envelhecimento Balsamo
@@ -4055,9 +3905,7 @@ e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem
 à cachaça Sabor de Minas um agradável e incomparável
 sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave
 paladar como pela sua qualidade.
-Grad.
-Alcool.
-: 42,0 % Vol.)
+Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG)
 Conteúdo : 250 ml
 Garrafa : Tipo Garrafa Porcelana
@@ -4071,9 +3919,7 @@ e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem
 à cachaça Sabor de Minas um agradável e incomparável
 sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave
 paladar como pela sua qualidade.
-Grad.
-Alcool.
-: 42,0 % Vol.)
+Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG)
 Conteúdo : 1000 ml
 Garrafa : Tipo Moringa Porcelana
@@ -4094,8 +3940,7 @@ PREÇO: R$ 79,90
 Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Só Luar
 Do mesmo produtor da Cachaça Lua Cheia.
-Grad.
-Alcool : 45 %
+Grad. Alcool : 45 %
 Produzida na cidade de Salinas (MG)
 Conteúdo : 600 ml
 Garrafa : tradicional
@@ -4106,9 +3951,7 @@ id: 307
 NOME DA CACHAÇA: Miniatura Majestade
 PREÇO: R$ 9,90
 Volume: 50 ml
-DESCRIÇÃO DA CACHAÇA: Miniatura Majestade Grad.
-Alcool.
-: 44 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Miniatura Majestade Grad. Alcool.: 44 % Vol.)
 Envelhecida em  tónel: BalsamoTempo de Envelhecimento: 2  AnosConteúdo : 50 ml Garrafa : MiniaturaPrazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool
 Tempo de Envelhecimento: 2 anos
 Grad. Alcool: 44%
@@ -4116,9 +3959,7 @@ id: 308
 NOME DA CACHAÇA: Miniatura Indaiazinha
 PREÇO: R$ 14,90
 Volume: 50 ml
-DESCRIÇÃO DA CACHAÇA: Miniatura Indaiazinha Grad.
-Alcool.
-: 42 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Miniatura Indaiazinha Grad. Alcool.: 42 % Vol.)
 Envelhecida em  tónel: BalsamoTempo de Envelhecimento: 8  Anos Conteúdo : 50 ml Garrafa : Miniatura Prazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool
 Tempo de Envelhecimento: 8 anos
 Grad. Alcool: 42%
@@ -4126,38 +3967,20 @@ id: 309
 NOME DA CACHAÇA: Miniatura Salinas
 PREÇO: R$ 14,90
 Volume: 50 ml
-DESCRIÇÃO DA CACHAÇA: Miniatura Cachaça Salinas  50 MLCom
- mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e
-referencia no setor, contando com a maior e mais moderna fabrica de
-Cachaça Artesanal do Brasil.
+DESCRIÇÃO DA CACHAÇA: Miniatura Cachaça Salinas  50 MLCom mais de 20 Anos de Tradição o Grupo Salinas e lider em vendas e referencia no setor, contando com a maior e mais moderna fabrica de Cachaça Artesanal do Brasil.
 A Salinas em Balsamo tem 2 anos de Envelhecimento tornando - se uma exelente cachaça.
-Cachaça pra quem gosta e conhece realmente de Cachaça CaracteristicasProduzida: Região de Salinas Madeira: BalsamoEnvelhecimento: 2 anos Garrafa: Miniatura 50 ML Evite o Consumo exessivo de Alcool A Cachaça que leva o nome da cidade de Salinas Colheita da Cana A
- colheita é feita no período de maio a novembro, época em que o teor de
-açúcar da cana é mais acentuado proporcionando uma melhor qualidade e
-aproveitamento do caldo extraído.
-Fermentação Nesta
- etapa, após a moagem da cana, tem-se o caldo da cana, também chamado de
- garapa que é colocado em um reservatório chamado dorna de fermentação.
-A
- ela é adicionado um composto chamado fermento (preparado à base de
-milho torrado e farelo de arroz).
-Através do processo chamado
- fermentação (processo de transformação de uma substância em outra,
-produzida a partir de microorganismos) as leveduras se multiplicam
-alimentando-se do açúcar existente na garapa, transformando o açúcar em
-álcool.
-Destilação O mosto fermentado, resultado da etapa anterior, é colocado em um alambique de cobre para obtenção do produto final: a cachaça.Na alambicagem (destilação), tem-se a cachaça e seus 3 fragmentos:-
- a cabeça, fase caracterizada por ser a primeira a sair do alambique
-(cerca de 13% é considerado altamente tóxico, a qual será desprezada);- o coração, cerca de 75%, considerado o corpo ou a parte central da cachaça alambicada;  EnvelhecimentoAs
- tradicionais cachaças Salinas e Lua nova passam por um período de
-descanso ou envelhecimento de dois anos e meio em dornas próprias.A
- cachaça Salinas tradicional em tonéis de Bálsamo, resultando em uma
-tonalidade mais amarelada e passando a sensação de ser forte e
-encorpada.
-EngarrafamentoO
- processo de engarrafamento se divide em cinco etapas bem definidas,
-onde nos respaldamos na utilização de equipamentos que garantem um alto
-padrão de higiene e qualidade.- esterilização das garrafas- envasamento (enchimento das garrafas)- fechamento das garrafas- rotulagem e selagem
+Cachaça pra quem gosta e conhece realmente de Cachaça
+CaracteristicasProduzida: Região de Salinas Madeira: BalsamoEnvelhecimento: 2 anos Garrafa: Miniatura 50 ML Evite o Consumo exessivo de Alcool A Cachaça que leva o nome da cidade de Salinas 
+Colheita da Cana A colheita é feita no período de maio a novembro, época em que o teor de açúcar da cana é mais acentuado proporcionando uma melhor qualidade e aproveitamento do caldo extraído.
+Fermentação Nesta etapa, após a moagem da cana, tem-se o caldo da cana, também chamado de garapa que é colocado em um reservatório chamado dorna de fermentação.
+A ela é adicionado um composto chamado fermento (preparado à base de milho torrado e farelo de arroz).
+Através do processo chamado fermentação (processo de transformação de uma substância em outra, produzida a partir de microorganismos) as leveduras se multiplicam alimentando-se do açúcar existente na garapa, transformando o açúcar em álcool.
+Destilação O mosto fermentado, resultado da etapa anterior, é colocado em um alambique de cobre para obtenção do produto final: a cachaça.
+Na alambicagem (destilação), tem-se a cachaça e seus 3 fragmentos:- a cabeça, fase caracterizada por ser a primeira a sair do alambique (cerca de 13% é considerado altamente tóxico, a qual será desprezada);- o coração, cerca de 75%, considerado o corpo ou a parte central da cachaça alambicada;
+EnvelhecimentoAs tradicionais cachaças Salinas e Lua nova passam por um período de descanso ou envelhecimento de dois anos e meio em dornas próprias.
+A cachaça Salinas tradicional em tonéis de Bálsamo, resultando em uma tonalidade mais amarelada e passando a sensação de ser forte e encorpada.
+EngarrafamentoO processo de engarrafamento se divide em cinco etapas bem definidas, onde nos respaldamos na utilização de equipamentos que garantem um alto padrão de higiene e qualidade.
+- esterilização das garrafas- envasamento (enchimento das garrafas)- fechamento das garrafas- rotulagem e selagem
 Produzida em: Região
 Tempo de Envelhecimento: 2 anos
 id: 310
@@ -4166,8 +3989,7 @@ PREÇO: R$ 27,90
 Volume: 600 ml
 DESCRIÇÃO DA CACHAÇA: Cachaça Hanavilhana 600 ml
 Produzida em Salinas - MG
-Grad.
-Alcool : 45,0 % 
+Grad. Alcool : 45,0 %
 Garrafa: Transparente
 Conteudo: 600 ml
 Validade: Indeterminada
@@ -4177,8 +3999,7 @@ id: 311
 NOME DA CACHAÇA: Cachaça Evelhecida Jequitibá Da Torre 500 ML
 PREÇO: R$43,90
 DESCRIÇÃO DA CACHAÇA: Cachaça Evelhecida Jequitibá Da Torre 500 ML ORIGEM: Produzido em Amparo - São Paulo Alambique da Torre Cachaça da Torre Envelhecida em Barril de Jequitibá Rosa por 18 meses.
-Grad.
-alc: 40% Volume: 500 ml.
+Grad. alc: 40% Volume: 500 ml.
 A Cachaça da Torre descansada foi premiada em 3o lugar (medalha de bronze) em 2008 e em 2o lugar (medalha de prata) em 2012, no Concurso de Avaliação de Cachaças, durante o Brazilian Meeting on Chemistry of Food and Beverages, supervisionado pelo Instituto de Química de São Carlos (IQSC-USP).
 Volume: 500 ML
 LOCAL DE PRODUÇÃO: Produzido em Amparo - São Paulo
@@ -4402,8 +4223,7 @@ id: 329
 NOME DA CACHAÇA: Cachaça Frazao Especial Carvalho 750 ML
 PREÇO: R$113,90
 DESCRIÇÃO DA CACHAÇA: Cachaça Frazao Especial Carvalho 750 ML Origem: Pitangui/MG Madeira: Carvalho.
-Grad.
-Alcoólica: 42% Volume: 670 ml Cachaça amarela, no paladar, traz um gosto doce característica da madeira carvalho.
+Grad. Alcoólica: 42% Volume: 670 ml Cachaça amarela, no paladar, traz um gosto doce característica da madeira carvalho.
 Retrogosto agradável e doce.
 Volume: 750 ML
 RECIPIENTE DE ARMAZENAMENTO: Carvalho.
@@ -4477,8 +4297,7 @@ DESCRIÇÃO DA CACHAÇA: Cachaça Pinga Ni Mim Blend Carvalho e Amburana 670 ML 
 Lançada nos anos 80 a música Pinga Ni Mim ultrapassa gerações e é sucesso até hoje em todos os shows em que é apresentada.
 Destilada em alambiques de cobre, a cachaça Pinga Ni Mim é um blend especial de cachaça envelhecida por três anos em barris de Carvalho com cachaça envelhecida por 2 anos em barris de Amburana.
 Apresenta notas aromáticas frutadas, de coco caramelizado, amêndoas e baunilha além de um toque de especiarias, que resulta num produto suave, de coloração intensa.
-Grad.
-Alcoólica: 40% ​Volume: 670 ml Tempo de Envelhecimento: 3 anos em carvalho e 3 anos em amburana Origem: Salinas/MG Coloração: Dourada Análise: Notas aromáticas frutadas, de coco caramelizado, amêndoas e baunilha.
+Grad. Alcoólica: 40% ​Volume: 670 ml Tempo de Envelhecimento: 3 anos em carvalho e 3 anos em amburana Origem: Salinas/MG Coloração: Dourada Análise: Notas aromáticas frutadas, de coco caramelizado, amêndoas e baunilha.
 Volume: 670 ML
 LOCAL DE PRODUÇÃO: Salinas/MG
 TEMPO DE ARMAZENAMENTO: 3 anos em carvalho e 3 anos
@@ -4682,8 +4501,7 @@ NOME DA CACHAÇA: Cachaça Artesanal Mato Dentro Ouro Carvalho 700 ml
 PREÇO: R$69,90
 DESCRIÇÃO DA CACHAÇA: Cachaça Artesanal Mato Dentro Ouro 700 ml www.cachacaepresente.com.br Cachaça é História Origem: São Luiz do Paraitinga / SP Madeira: Carvalho Graduação: 41% Envelhecimento: 2 anos em Barril de Carvalho Produzida na histórica cidade de São Luiz de Paraitinga /SP que serve de cenário inspirador para a produção de uma das mais tradicionais bebidas brasileiras.
 traz o sabor único e marcante da madeira Carvalho.
-Saúde!
-!
+Saúde!!
 Volume: 700 ml
 RECIPIENTE DE ARMAZENAMENTO: Carvalho
 LOCAL DE PRODUÇÃO: São Luiz do Paraitinga / SP
@@ -4743,8 +4561,7 @@ PREÇO: R$82,90
 DESCRIÇÃO DA CACHAÇA: Cachaça Artesanal Mineira João Plenário Blend 700 ml www.cachacaepresene.com.br Cachaça Mineira João Plenário Blend 2 madeiras armazenado em Tonéis de Carvalho e Umburana.
 A mistura confere ao produto final um exclusivo padrão sensorial, com Notas de Baunilha e Amêndoas e suave paladar.
 Uma cachaça que satisfaz o paladar dos mais exigentes apreciadores das tradicionais cachaças Brasileiras de Alambique.
-Grad.
-Alc: 39% Volume: 700 ml Eita cachaça boa!
+Grad. Alc: 39% Volume: 700 ml Eita cachaça boa!
 Extraordinária!
 Com ela não tem crise.
 Beba e comprove!
@@ -5125,9 +4942,7 @@ id: 403
 NOME DA CACHAÇA: Cachaça Beija Flor Bálsamo
 PREÇO: R$ 57,00
 DESCRIÇÃO DA CACHAÇA: Após a destilação, a cachaça Beija Flor passa por um período mínimo de 2 anos de maturação e envelhecimento em dornas de bálsamo, o que lhe confere tons de cor, cheiro e sabor próprios, que pelas suas características naturais, fazem da cachaça Beija Flor uma bebida pura e saudável perfeitamente adequada aos apreciadores de bebidas fortes e sabor peculiar, ela tem esse nome em homenagem a um beijaflor que tinha o hábito de voar pelos canaviais da fazenda.
-Estado: Minas Gerais Envelhecimento: 2 anos Madeira: Bálsamo Volume: 670ml Grad.
-Alc.
-48%
+Estado: Minas Gerais Envelhecimento: 2 anos Madeira: Bálsamo Volume: 670ml Grad. Alc. 48%
 Volume: 670 ML
 id: 404
 NOME DA CACHAÇA: Cachaça Bento Albino Amburana
@@ -5414,8 +5229,7 @@ DESCRIÇÃO DA CACHAÇA: A cachaça é produzida na fazenda Casa Amarela, locali
 A produção da cachaça é totalmente artesanal e sustentável.
 A cana utilizada na fabricação da cachaça é plantada na fazenda casa amarela, o bagaço da cana moída serve de combustível para a fornalha que destila o produto e, a fermentação é totalmente feita com fubá, tornando o produto livre de substâncias químicas prejudiciais ao organismo.O produto foi submetido a rigorosos testes químicos e degustativos que comprovaram sua pureza frente a maioria das outras cachaças.
 Origem: Fazenda Casa Amarela Ervália MG. Armazenamento: Carvalho.
-Grad.
-Alcoólica: 40% vol.
+Grad. Alcoólica: 40% vol.
 Volume: 670 ml.
 Volume: 670 ml
 id: 440
@@ -9441,11 +9255,7 @@ NOME DA CACHAÇA: Cachaça Estância Moretti 4 Madeiras
 PREÇO: R$ 59,90
 DESCRIÇÃO DA CACHAÇA: Cachaça Estância Moretti 4 Madeiras 500ml.
 Um Blend fantástico!!!
-A Estancia Moretti armonizou as 4 madeiras com muito equilibrio respeitando os sabores e características de cada madeira em um blend fantástico.
-Detalhes: Carvalho Francês.
-Carvalho Americano.
-Imburana.
-Castanheira.
+A Estancia Moretti armonizou as 4 madeiras com muito equilibrio respeitando os sabores e características de cada madeira em um blend fantástico. Detalhes: Carvalho Francês. Carvalho Americano. Imburana. Castanheira.
 Volume: 500ml
 GRADUAÇÃO ALCOÓLICA: 40% vol.
 id: 696
@@ -9937,8 +9747,7 @@ id: 752
 NOME DA CACHAÇA: Cachaça Extra Premium 12 Anos
 PREÇO: R$129,00
 DESCRIÇÃO DA CACHAÇA: Cachaça Dom Tápparo Extra Premium envelhecida 12 anos em Toneis de Carvalho Europeu Graduação 38 % Vol.
-Vol.
-750ml
+Vol. 750ml
 VOLUME: Vol. 750ml
 GRADUAÇÃO ALCOÓLICA: 38 %Vol.
 RECIPIENTE DE ARMAZENAMENTO: Toneis de Carvalho Europeu
@@ -9963,8 +9772,7 @@ TEMPO DE ARMAZENAMENTO: 3 anos
 id: 755
 NOME DA CACHAÇA: Cachaça Premium 6 anos Jequitibá
 PREÇO: R$89,00
-DESCRIÇÃO DA CACHAÇA: Cachaça Envelhecida 6 anos em Toneis de Jequitibá – Graduação alcoólico 38% Vol.
-700ml
+DESCRIÇÃO DA CACHAÇA: Cachaça Envelhecida 6 anos em Toneis de Jequitibá – Graduação alcoólico 38% Vol. 700ml
 VOLUME: Vol. 700ml
 GRADUAÇÃO ALCOÓLICA: 38% Vol.
 RECIPIENTE DE ARMAZENAMENTO: Toneis de Jequitibá
@@ -10025,8 +9833,7 @@ O Produtor
 Na fazenda Marquesa a cana é colhida manualmente e transportada por animais até o alambique, para evitar que ela se contamine com a fumaça dos veículos motorizados.
 Para fermentação, empregam leveduras autóctones selecionadas.
 Com rendimento de 200 mil litros por ano, a dupla também demonstra vanguarda ao trazer conceitos da Escola Varietal, como identificação da safra e reconhecimento da variedade de cana como fundamental para distinguir as características sensoriais da cachaça.
-Sensorial
-Floral no odor, remete a flores apícolas.
+Sensorial Floral no odor, remete a flores apícolas.
 O sabor confirma a intensidade de doçura, em balanço com o alcoólico e a acidez.
 A picância leve torna esta cachaça redonda e gentil.
 Volume: 600 ml
@@ -10240,10 +10047,8 @@ O engenho tem alta capacidade de extração e a sala de fermentação obedece à
 O alambique é em cobre, que retira odores indesejáveis durante a destilação da cachaça, quando são separadas as frações: cabeça, coração e cauda.
 Apenas o coração é usado para a elaboração dessa cachaça artesanal.
 Após a destilação, a cachaça Arbórea vai para o armazenamento, onde as cachaças brancas (prata) ficam em tanques em inox e para as amarelas (ouro) em tonéis de carvalho, amburana e maple, que dão um toque único.
-Degustação
-Aromas frutados frescos como de pêssego em união com suave e cremoso dulçor e evolução complexa.
-Harmonização
-Conservas, ovos, cogumelos, base de tomate ou cremosas como moqueca e carnes cruas.
+Degustação Aromas frutados frescos como de pêssego em união com suave e cremoso dulçor e evolução complexa.
+Harmonização Conservas, ovos, cogumelos, base de tomate ou cremosas como moqueca e carnes cruas.
 Volume: 700 ml
 LOCAL DE PRODUÇÃO: Minas Gerais - Brasil
 Produtor: Arbórea
@@ -10309,8 +10114,7 @@ Conheça mais a Cachaça Colombina 3 anos
 A Cachaça Colombina 3 anos é produzida desde então na fazenda do Canjica, em Alvinópolis – MG. Foi impulsionada, a partir dos anos 80, por Raul Xavier Megre, que fez a Cachaça Colombina reconhecida no brasil, elevando seu padrão e colecionando prêmios por sua qualidade e pureza.
 Armazenada em paróis de jatobá por 3 anos.
 A Cachaça Colombina 3 anos é feita a partir de um processo elaborado desde seu nascimento no ano de 1920.
-Produtor
-Fazenda do Canjica, em Alvinópolis/MG, com alambiques datados de 1890, era uma das principais fornecedoras da Colombina.
+Produtor Fazenda do Canjica, em Alvinópolis/MG, com alambiques datados de 1890, era uma das principais fornecedoras da Colombina.
 Em 1980 Raul Megre adquire a marca Colombina e reabre o antigo alambique da Fazenda do Canjica.
 Atualmente a produção e comercialização da Cachaça estão a cargo de Luciano Souto.
 São mais de 100 anos mantendo a tradição e produzindo a mesma cachaça de qualidade em alambique de cobre.
@@ -10336,8 +10140,7 @@ A Cachaça Colombina Chita é um Blend e é produzidas a partir do blend de Jato
 Há mais de 90 anos, a Fazenda Canjica mantém a tradição produzindo a mesma cachaça de qualidade em alambique de cobre e engenho movido por roda d’água.
 Com teor alcóolico de 40% recomenda-se ser servida na temperatura ambiente.
 A Cachaça Colombina Chita harmoniza com frutos do mar.
-Produtor
-Fazenda do Canjica, em Alvinópolis/MG, com alambiques datados de 1890, era uma das principais fornecedoras da Colombina.
+Produtor Fazenda do Canjica, em Alvinópolis/MG, com alambiques datados de 1890, era uma das principais fornecedoras da Colombina.
 Em 1980 Raul Megre adquire a marca Colombina e reabre o antigo alambique da Fazenda do Canjica.
 Atualmente a produção e comercialização da Cachaça estão a cargo de Luciano Souto.
 São mais de 100 anos mantendo a tradição e produzindo a mesma cachaça de qualidade em alambique de cobre.
@@ -10368,8 +10171,7 @@ As características sensoriais:
 Lágrimas e rosário moderados; cor caramelo; no nariz, caramelo, leve defumado, mel e couro; na boca, percepção alcoólica intensa; acidez acentuada, mas sem queimar; sensação fechada, picante e adstringente no final de boca, deixando gosto levemente amargo e língua formigando.
 Ideal para: degustar pura ou com um pouco de água para reduzir a percepção alcoólica e abrir os aromas.
 Interessante comparar com Maria Izabel Carvalho e identificar dois perfis diferentes de carvalho de produtores do mesmo território.
-Produtor
-A Coqueiro é produzida na Fazenda Cabral, a 7 km do centro histórico de Paraty, por Eduardo Mello e seu filho Eduardo Caligari Mello.
+Produtor A Coqueiro é produzida na Fazenda Cabral, a 7 km do centro histórico de Paraty, por Eduardo Mello e seu filho Eduardo Caligari Mello.
 A família Mello começou a produzir cachaça em Paraty em 1803 com José Mello e segue até hoje a receita dos antepassados que fizeram da cidade sinônimo de cachaça de qualidade.
 Parte dessa herança está nas técnicas de fermentação com leveduras selvagens e no uso de ingredientes secretos para o preparo do pé de cuba, que resultam em uma pinga que traduz os aromas e os sabores do território de Paraty.
 Volume: 700 ml
@@ -10393,8 +10195,7 @@ A propriedade possui solo clima e microclima ideais ao cultivo da cana à fermen
 Em 1923 a Fazenda da Quinta foi adquirida por Francisco Lourenço Alves imigrante português que introduziu uma série de cuidados ao processo de fabricação da já existente Cachaça da Quinta.
 Seu filho e sucessor José Ramos Alves prosseguiu aprimorando os cuidados de fabricação da bebida com a manutenção da técnica original de fabricação e da especialidade do processo de fermentação conquistando cada vez mais a preferência dos apreciadores.
 No início do século XXI transmitiu a propriedade e todos os detalhes sobre o processo tradicional de produção à sua filha Katia Alves Espírito Santo.
-Curiosidades
-A cachaça Da Quinta está entre as cachaças mais premiadas do Brasil.
+Curiosidades A cachaça Da Quinta está entre as cachaças mais premiadas do Brasil.
 Ela é produzida no município de Carmo, na região serrana do Rio de Janeiro.
 A produção da Cachaça da Quinta obedece critérios rigorosamente estabelecidos e controlados a saber:  canavial orgânico envolvendo as melhores técnicas de plantio tratos culturais e colheita,fermentação orgânica com leveduras da cana cultivada na propriedade, destilação lenta em alambique de cobre com obtenção do puríssimo “coração” ou seja a fração correta da cachaça de alto padrão sensorial e físico-químico.
 Armazenamento por dois anos em tonéis de madeira – Amburana ou Carvalho – e de dez a doze meses em tonéis inoxidáveis – abrigados em edificação secular com paredes espessas pé direito alto e telhas de barro, engarrafamento, cumprimento dos protocolos de boas práticas de fabricação em todas as etapas.
@@ -10448,8 +10249,7 @@ A cachaça é produzida numa antiga fazenda fundada em 1923, em uma região de s
 A cachaça representa o terroir da região serrana fluminense.
 Cachaça orgânica
 A cachaça Da Quinta tem certificado de produto orgânico.
-Curiosidades
-A cachaça Da Quinta está entre as cachaças mais premiadas do Brasil.
+Curiosidades A cachaça Da Quinta está entre as cachaças mais premiadas do Brasil.
 Ela é produzida no município de Carmo, na região serrana do Rio de Janeiro.
 A produção da Cachaça da Quinta obedece critérios rigorosamente estabelecidos e controlados a saber:  canavial orgânico envolvendo as melhores técnicas de plantio tratos culturais e colheita,fermentação orgânica com leveduras da cana cultivada na propriedade, destilação lenta em alambique de cobre com obtenção do puríssimo “coração” ou seja a fração correta da cachaça de alto padrão sensorial e físico-químico.
 Armazenamento por dois anos em tonéis de madeira – Amburana ou Carvalho – e de dez a doze meses em tonéis inoxidáveis – abrigados em edificação secular com paredes espessas pé direito alto e telhas de barro, engarrafamento, cumprimento dos protocolos de boas práticas de fabricação em todas as etapas.
@@ -10561,8 +10361,7 @@ Cachaça Gouveia Brasil Extra Premium é uma bebida única, marcante e de equil�
 Deixa no olfato aromas de frutas, madeiras e flores, além de toques de baunilha, amêndoa e nozes.
 Acompanha muito bem pratos à base de carne e molhos cremosos.
 Sua harmonia também é perfeita com chocolates e tabaco.
-Produtor
-A combinação de história e paixão de Roberto Brasil uniram-se ao talento de Armando Del Bianco, um dos mais conhecidos e respeitados master blenders do país.
+Produtor A combinação de história e paixão de Roberto Brasil uniram-se ao talento de Armando Del Bianco, um dos mais conhecidos e respeitados master blenders do país.
 Para Armando a tarefa era desenvolver um destilado equiparado aos melhores do mundo, e que pudesse ser apreciado por todos e todas, inclusive pelos degustadores mais sofisticados.
 Del Bianco montou em Turvolândia uma adega de barris de carvalho americano e tratou de extrair o melhor da cana, do alambique e da madeira.
 Volume: 700 ml
@@ -10594,8 +10393,7 @@ Gostos: Doce
 Sensações: aveludado – levemente picante
 Retrogosto: agradável (forte) – baunilha
 Harmonize ao seu gosto!
-Produtor
-A combinação de história e paixão de Roberto Brasil uniram-se ao talento de Armando Del Bianco, um dos mais conhecidos e respeitados master blenders do país.
+Produtor A combinação de história e paixão de Roberto Brasil uniram-se ao talento de Armando Del Bianco, um dos mais conhecidos e respeitados master blenders do país.
 Para Armando a tarefa era desenvolver um destilado equiparado aos melhores do mundo, e que pudesse ser apreciado por todos e todas, inclusive pelos degustadores mais sofisticados.
 Del Bianco montou em Turvolândia uma adega de barris de carvalho americano e tratou de extrair o melhor da cana, do alambique e da madeira.
 Volume: 700 ml
@@ -10850,8 +10648,7 @@ A cana é moída pela força da roda da água do jeito que é feito desde que as
 O resultado é incomparável; uma cachaça cheirosa e de sabor intenso com características típicas desta região praiana.
 Aproveite sua Santo Grau Paraty com petiscos.
 Harmonize com pasteis de pirarucu queijo da Serra da Canastra e carne-seca com abóbora.
-Produção
-Produzidas a partir de matéria-prima controlada, com a sabedoria e os segredos passados de geração a geração das três famílias responsáveis pelos diferentes engenhos, cada cachaça apresenta características próprias de sua região.
+Produção Produzidas a partir de matéria-prima controlada, com a sabedoria e os segredos passados de geração a geração das três famílias responsáveis pelos diferentes engenhos, cada cachaça apresenta características próprias de sua região.
 A colheita da cana-de-açúcar é feita manualmente, sem queimadas ou uso de produtos químicos nos canaviais.
 A cana não tem contato com o solo para evitar a contaminação, sendo moída até 24 horas depois do corte, em moendas que utilizam a força de rodas d’água.
 A fermentação é natural e realizada lenta e gradualmente, de modo a atingir os melhores resultados.
@@ -11672,8 +11469,7 @@ Decorrência de tripla filtragem e tem uma embalagem única e exclusiva.
 Conheça mais a Cachaça Yaguara Orgânica
 A Cachaça Yaguara Orgânica apesar de passar por madeira, a cachaça é incolor em decorrência de tripla filtragem.
 Com uma embalagem única e exclusiva, encerra em seu interior uma cachaça surpreendente na qualidade, com notas de carvalho europeu, camomila e capim limão.
-Produtor
-Os irmãos brasileiros Thyrso e Thiago Camargo e seu amigo de infância, o inglês Hamilton Lowe, criaram a empresa Carmosina para realizar um sonho em comum: tornar a cachaça artesanal de alambique um destilado mundial.
+Produtor Os irmãos brasileiros Thyrso e Thiago Camargo e seu amigo de infância, o inglês Hamilton Lowe, criaram a empresa Carmosina para realizar um sonho em comum: tornar a cachaça artesanal de alambique um destilado mundial.
 Parte dessa motivação vem da herança de família.
 O avô dos sócios brasileiros, o Barba, tinha como hobby envelhecer cachaça em sua fazenda no Paraná.
 Do lado inglês, tiveram a inspiração e a orientação do pai de Hamilton, sir Frank Lowe, um dos pioneiros da indústria de publicidade da Inglaterra e responsável pelo desenvolvimento de grandes marcas.
@@ -11797,12 +11593,9 @@ id: 832
 NOME DA CACHAÇA: Cachaça Reserva 51 Única Com Box 700ml e Cantil Grátis
 PREÇO: R$ 149,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
+DESCRIÇÃO DA CACHAÇA: 700ml 40%
 carvalho americano anteriormente utilizado para envelhecer whisky bourbon
-4 - 5 anos
-ouro
-Pirassununga/SP
+4 - 5 anos ouro Pirassununga/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -11827,8 +11620,7 @@ id: 833
 NOME DA CACHAÇA: Cachaça Seleta Eu Garanto com mel e Castanha Baru 500ml
 PREÇO: R$ 64,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-33%
+DESCRIÇÃO DA CACHAÇA: 500ml 33%
 Salinas/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
@@ -11843,16 +11635,13 @@ id: 834
 NOME DA CACHAÇA: Cachaça Matuta Cristal 300ml
 PREÇO: R$ 24,90
 VOLUME: 300ml
-DESCRIÇÃO DA CACHAÇA: 300ml
-40%
+DESCRIÇÃO DA CACHAÇA: 300ml 40%
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
 Graduação alcoólica: 40% Bidestilada
 Cor: Branca
-Tempo de armazenamento:
-6 meses em
- Inox
+Tempo de armazenamento: 6 meses em Inox
 Volume: 300ml
 CARACTERÍSTICAS SENSORIAIS:
 Visual: Branca, densa, brilhante e límpida.
@@ -11865,8 +11654,7 @@ id: 835
 NOME DA CACHAÇA: Cachaça Ipueira 355ml
 PREÇO: R$ 14,90
 VOLUME: 355ml
-DESCRIÇÃO DA CACHAÇA: 355ml
-42%
+DESCRIÇÃO DA CACHAÇA: 355ml 42%
 prata
 Areia, Paraiba, Brazil
 INFORMAÇÕESOES TÉCNICAS: Volume
@@ -11885,8 +11673,7 @@ id: 836
 NOME DA CACHAÇA: Middas Cachaca Reserva dos Proprietários 700 ml com flocos de ouro
 PREÇO: R$ 437,00
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-42%
+DESCRIÇÃO DA CACHAÇA: 700ml 42%
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 TEXTO DESCRITIVO: Middas Cachaça Reserva dos Proprietários
@@ -11912,8 +11699,7 @@ id: 837
 NOME DA CACHAÇA: Cachaça Middas Clássica 700ml com flocos de ouro
 PREÇO: R$ 327,00
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-39%
+DESCRIÇÃO DA CACHAÇA: 700ml 39%
 02 anos em amendoim do campo
 Dracena/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
@@ -11943,9 +11729,7 @@ id: 838
 NOME DA CACHAÇA: Cachaça Matuta Umburana 250ml
 PREÇO: R$ 22,90
 VOLUME: 250ml
-DESCRIÇÃO DA CACHAÇA: 250ml
-39%
-umburana
+DESCRIÇÃO DA CACHAÇA: 250ml 39% umburana
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -11960,10 +11744,7 @@ id: 839
 NOME DA CACHAÇA: Cachaça João Mendes Prata 970ml
 PREÇO: R$ 54,90
 VOLUME: 970ml
-DESCRIÇÃO DA CACHAÇA: 970ml
-38%
-prata
-Perdões
+DESCRIÇÃO DA CACHAÇA: 970ml 38% prata Perdões
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tipo
@@ -11979,12 +11760,7 @@ id: 840
 NOME DA CACHAÇA: Cachaça João Mendes Amburana 670ml
 PREÇO: R$ 53,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-38%
-amburana
-2 anos
-ouro
-Perdões
+DESCRIÇÃO DA CACHAÇA: 670ml 38% amburana 2 anos ouro Perdões
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12006,10 +11782,7 @@ id: 841
 NOME DA CACHAÇA: Cachaca Paratiana Gabriela Cravo e Canela 700ml
 PREÇO: R$ 84,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-27%
-bebida mista
-Pataty/RJ
+DESCRIÇÃO DA CACHAÇA: 700ml 27% bebida mista Pataty/RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tipo
@@ -12026,12 +11799,7 @@ id: 842
 NOME DA CACHAÇA: Cachaca Paratiana Ouro Ceramica 500ml
 PREÇO: R$ 105,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-42%
-carvalho
-2 anos
-ouro
-Paraty/RJ
+DESCRIÇÃO DA CACHAÇA: 500ml 42% carvalho 2 anos ouro Paraty/RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12058,11 +11826,7 @@ id: 843
 NOME DA CACHAÇA: Cachaça Orgânica Serra das Almas Cerâmica Ouro 670ml
 PREÇO: R$ 72,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-42%
-3 anos
-ouro
-Rio de Contas / BA
+DESCRIÇÃO DA CACHAÇA: 670ml 42% 3 anos ouro Rio de Contas / BA
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
@@ -12082,10 +11846,7 @@ id: 844
 NOME DA CACHAÇA: Cachaça Orgânica Serra das Almas Cerâmica Prata 670mlL
 PREÇO: R$ 61,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-39%
-prata
-Rio das Contas/BA
+DESCRIÇÃO DA CACHAÇA: 670ml 39% prata Rio das Contas/BA
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tipo
@@ -12102,12 +11863,7 @@ id: 845
 NOME DA CACHAÇA: Cachaça Coqueiro Envelhecida 700ml
 PREÇO: R$ 64,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-42%
-carvalho francês
-02 anos
-ouro
-Pataty/RJ
+DESCRIÇÃO DA CACHAÇA: 700ml 42% carvalho francês 02 anos ouro Pataty/RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12129,11 +11885,7 @@ id: 846
 NOME DA CACHAÇA: Cachaça Colombina Coleção Chita 700ml
 PREÇO: R$ 129,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
-4 anos
-extra premium
-Araguari / MG
+DESCRIÇÃO DA CACHAÇA: 700ml 40% 4 anos extra premium Araguari / MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
@@ -12153,12 +11905,7 @@ id: 847
 NOME DA CACHAÇA: Cachaça Xanadu Jequitibá 670ml
 PREÇO: R$ 76,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-39%
-jequitibá
-6 anos
-premium
-Blumenau / Santa Catarina
+DESCRIÇÃO DA CACHAÇA: 670ml 39% jequitibá 6 anos premium Blumenau / Santa Catarina
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12181,12 +11928,7 @@ id: 848
 NOME DA CACHAÇA: Cachaça Weber Haus Carvalho e Cabriúva 700ml
 PREÇO: R$ 79,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-38%
-carvalho e cabriúva
-2 anos
-ouro
-Ivoti/RS
+DESCRIÇÃO DA CACHAÇA: 700ml 38% carvalho e cabriúva 2 anos ouro Ivoti/RS
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12208,12 +11950,7 @@ id: 849
 NOME DA CACHAÇA: Cachaça Dom Bré Premium Jequitibá 700ml
 PREÇO: R$ 144,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
-jequitibá
-3 anos
-extra premium
-Guarani/MG
+DESCRIÇÃO DA CACHAÇA: 700ml 40% jequitibá 3 anos extra premium Guarani/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12235,9 +11972,7 @@ id: 850
 NOME DA CACHAÇA: Cachaça Joselita Com Jambú E Gengibre 750ml
 PREÇO: R$ 76,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-34%
-Mococa
+DESCRIÇÃO DA CACHAÇA: 750ml 34% Mococa
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Origem
@@ -12252,8 +11987,7 @@ id: 851
 NOME DA CACHAÇA: Cachaça Jós com Jambu 500ml
 PREÇO: R$ 76,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-34%
+DESCRIÇÃO DA CACHAÇA: 500ml 34%
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 TEXTO DESCRITIVO: Bebida Mista com Jambu Jós
@@ -12266,10 +12000,7 @@ id: 852
 NOME DA CACHAÇA: Cachaça Blend Nordestino
 PREÇO: R$ 161,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-8%
-prata
-São Sebastião/AL
+DESCRIÇÃO DA CACHAÇA: 750ml 8% prata São Sebastião/AL
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tipo
@@ -12285,9 +12016,7 @@ id: 853
 NOME DA CACHAÇA: Cachaça Maria Izabel Tradicional 700ml
 PREÇO: R$ 172,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-44%
-Paraty/RJ
+DESCRIÇÃO DA CACHAÇA: 700ml 44% Paraty/RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Origem
@@ -12301,12 +12030,7 @@ id: 854
 NOME DA CACHAÇA: Cachaça Engenho São Luiz Premium Carvalho 600ml
 PREÇO: R$ 76,90
 VOLUME: 600ml
-DESCRIÇÃO DA CACHAÇA: 600ml
-42%
-carvalho
-18 meses
-premium
-Lençois Paulista/SP
+DESCRIÇÃO DA CACHAÇA: 600ml 42% carvalho 18 meses premium Lençois Paulista/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12329,12 +12053,7 @@ id: 855
 NOME DA CACHAÇA: Cachaça Engenho São Luiz Premium Bálsamo 750ml
 PREÇO: R$ 96,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-40%
-bálsamo
-18 meses
-premium
-Lençois Paulista/SP
+DESCRIÇÃO DA CACHAÇA: 750ml 40% bálsamo 18 meses premium Lençois Paulista/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12358,12 +12077,7 @@ id: 856
 NOME DA CACHAÇA: Cachaça Engenho São Luiz Premium Amburana 750ml
 PREÇO: R$ 96,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-40%
-amburana
-18 meses
-premium
-Lençois Paulista/SP
+DESCRIÇÃO DA CACHAÇA: 750ml 40% amburana 18 meses premium Lençois Paulista/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12387,12 +12101,7 @@ id: 857
 NOME DA CACHAÇA: Cachaça Engenho São Luiz Extra Premium Carvalho 600ml
 PREÇO: R$ 104,90
 VOLUME: 600ml
-DESCRIÇÃO DA CACHAÇA: 600ml
-42%
-carvalho
-3 anos
-extra premium
-Lençois Paulista/SP
+DESCRIÇÃO DA CACHAÇA: 600ml 42% carvalho 3 anos extra premium Lençois Paulista/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12416,9 +12125,7 @@ id: 858
 NOME DA CACHAÇA: Cachaça Manda Chuva Autêntica Se Sobrá 700ml
 PREÇO: R$ 45,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-39%
-jatobá
+DESCRIÇÃO DA CACHAÇA: 700ml 39% jatobá
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12435,10 +12142,7 @@ id: 859
 NOME DA CACHAÇA: Cachaça Autêntica Se Sobra Ouro 700ml
 PREÇO: R$ 74,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-38%
-carvalho
-Alfenas/MG
+DESCRIÇÃO DA CACHAÇA: 700ml 38% carvalho Alfenas/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12458,9 +12162,7 @@ id: 860
 NOME DA CACHAÇA: Cachaça DiCafe D'Gusta 750ml
 PREÇO: R$ 75,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-20%
-São Pedro/SP
+DESCRIÇÃO DA CACHAÇA: 750ml 20% São Pedro/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Origem
@@ -12477,9 +12179,7 @@ id: 861
 NOME DA CACHAÇA: Cachaça Coquinho D'Gusta 750ml
 PREÇO: R$ 75,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-20%
-São Pedro/SP
+DESCRIÇÃO DA CACHAÇA: 750ml 20% São Pedro/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Origem
@@ -12496,9 +12196,7 @@ id: 862
 NOME DA CACHAÇA: Cachaça Canelinha D'Gusta 750ml
 PREÇO: R$ 75,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-20%
-São Pedro/SP
+DESCRIÇÃO DA CACHAÇA: 750ml 20% São Pedro/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Origem
@@ -12515,9 +12213,7 @@ id: 863
 NOME DA CACHAÇA: Cachaça Bananinha D'Gusta 750ml
 PREÇO: R$ 75,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-20%
-São Pedro/SP
+DESCRIÇÃO DA CACHAÇA: 750ml 20% São Pedro/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Origem
@@ -12534,12 +12230,10 @@ id: 864
 NOME DA CACHAÇA: Cachaça Cabaré Fire 1000 ml
 PREÇO: R$ 42,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-5%
+DESCRIÇÃO DA CACHAÇA: 1000ml 5%
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
-TEXTO DESCRITIVO: Agora a Família Cabaré tem o
-sabor excepcional da canela com a Cabaré Fire
+TEXTO DESCRITIVO: Agora a Família Cabaré tem o sabor excepcional da canela com a Cabaré Fire
 Descrição: Coquetel de Canela, Feito à base de Cachaça.
 Graduação Alcoólica: 28,5%
 Volume: 1000ml
@@ -12549,10 +12243,7 @@ id: 865
 NOME DA CACHAÇA: Cachaça Espírito de Minas 700 ml
 PREÇO: R$ 99,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-42%
-jequitibá e carvalho
-São Tiago/MG
+DESCRIÇÃO DA CACHAÇA: 700ml 42% jequitibá e carvalho São Tiago/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12576,8 +12267,7 @@ id: 867
 NOME DA CACHAÇA: Cachaça Vale Verde Ouro 700ml
 PREÇO: R$ 98,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
+DESCRIÇÃO DA CACHAÇA: 700ml 40%
 carvalho
 03 anos
 Betim- MG
@@ -12600,10 +12290,7 @@ id: 868
 NOME DA CACHAÇA: Cachaça Rainha 600ml
 PREÇO: R$ 44,90
 VOLUME: 600ml
-DESCRIÇÃO DA CACHAÇA: 600ml
-50%
-freijó
-Bananeiras - PB
+DESCRIÇÃO DA CACHAÇA: 600ml 50% freijó Bananeiras - PB
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12619,11 +12306,7 @@ id: 869
 NOME DA CACHAÇA: Cachaça Erva Doce Ouro 670 ml
 PREÇO: R$ 52,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-39%
-carvalho e senna macranthera
-2 anos
-ouro
+DESCRIÇÃO DA CACHAÇA: 670ml 39% carvalho e senna macranthera 2 anos ouro
 Ilhéus/BAA cachaça Erva Doce é produzida em Salinas e armazenada em tonéis de Carvalho e Senna Macrhanthera.
 A Cachaça é conhecida por ser light em função do seu baixo teor alcóolico.
 Madeira: Carvalho e Senna Macranthera
@@ -12648,10 +12331,7 @@ id: 870
 NOME DA CACHAÇA: Cachaça Maria Andante EVA Prata 700ml
 PREÇO: R$ 52,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
-prata
-Taboão Passa Quatro/MG
+DESCRIÇÃO DA CACHAÇA: 700ml 40% prata Taboão Passa Quatro/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tipo
@@ -12667,9 +12347,7 @@ id: 871
 NOME DA CACHAÇA: Cachaça Matuta Bálsamo 1000 ml
 PREÇO: R$ 52,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-39%
-bálsamo
+DESCRIÇÃO DA CACHAÇA: 1000ml 39% bálsamo
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12685,8 +12363,7 @@ id: 872
 NOME DA CACHAÇA: Cachaça Matuta Abelha Rainha mel e limão 1000 ml
 PREÇO: R$ 68,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-23%
+DESCRIÇÃO DA CACHAÇA: 1000ml 23%
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 TEXTO DESCRITIVO: Poucas combinações são tão bem conhecidas no mundo inteiro como mel e limão, que somados a uma boa dose de matuta formam um aperitivo docinho, saboroso e que agrada aos mais diferentes paladares. Se o clima está quente, experimente gelada, mas se estiver batendo aquele friozinho prove a bebida em temperatura ambiente.
@@ -12697,12 +12374,7 @@ id: 873
 NOME DA CACHAÇA: Cachaça Dom Bre Extra Premium 700ml
 PREÇO: R$ 146,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
-carvalho
-3 anos
-extra premium
-Guarani/MG
+DESCRIÇÃO DA CACHAÇA: 700ml 40% carvalho 3 anos extra premium Guarani/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12724,12 +12396,7 @@ id: 874
 NOME DA CACHAÇA: Cachaça Matuta Single Blend 1000 ml
 PREÇO: R$ 66,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-39%
-blend de madeiras (umburana, bálsamo, jaqueira e ipe
-2 anos
-extra premium
-Areias - PA
+DESCRIÇÃO DA CACHAÇA: 1000ml 39% blend de madeiras (umburana, bálsamo, jaqueira e ipe 2 anos extra premium Areias - PA
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12752,9 +12419,7 @@ id: 875
 NOME DA CACHAÇA: Cachaça Retiro Velho Ouro Carvalho 700 ml
 PREÇO: R$ 61,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-ouro
-Araguari / MG
+DESCRIÇÃO DA CACHAÇA: 700ml ouro Araguari / MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Tipo
 Origem
@@ -12769,14 +12434,11 @@ id: 876
 NOME DA CACHAÇA: Cachaça Retiro Velho Premium 500 ml
 PREÇO: R$ 244,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-premium
-Araguari / MG
+DESCRIÇÃO DA CACHAÇA: 500ml premium Araguari / MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Tipo
 Origem
-TEXTO DESCRITIVO: Armazenamento
-: Carvalho
+TEXTO DESCRITIVO: Armazenamento: Carvalho
  Volume: 500ml
 Tipo: Premium
 Origem: Araguari / MG
@@ -12787,9 +12449,7 @@ id: 877
 NOME DA CACHAÇA: Cachaça Arraial Velho Prata 965ml
 PREÇO: R$ 41,90
 VOLUME: 965ml
-DESCRIÇÃO DA CACHAÇA: 965ml
-ouro
-Araguari / MG
+DESCRIÇÃO DA CACHAÇA: 965ml ouro Araguari / MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Tipo
 Origem
@@ -12802,9 +12462,7 @@ id: 878
 NOME DA CACHAÇA: Cachaça Arraial Velho Ouro Cerejeira 965ml
 PREÇO: R$ 41,90
 VOLUME: 965ml
-DESCRIÇÃO DA CACHAÇA: 965ml
-ouro
-Araguari / MG
+DESCRIÇÃO DA CACHAÇA: 965ml ouro Araguari / MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Tipo
 Origem
@@ -12818,9 +12476,7 @@ id: 879
 NOME DA CACHAÇA: Cachaça Matuta Umburana 1000 ml
 PREÇO: R$ 53,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-39%
-umburana
+DESCRIÇÃO DA CACHAÇA: 1000ml 39% umburana
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12841,16 +12497,13 @@ id: 880
 NOME DA CACHAÇA: Cachaça Matuta Cristal 1000 ml
 PREÇO: R$ 50,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-40%
+DESCRIÇÃO DA CACHAÇA: 1000ml 40%
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
 Graduação alcoólica: 40% Bidestilada
 Cor: Branca
-Tempo de armazenamento:
-6 meses em
- Inox
+Tempo de armazenamento: 6 meses em Inox
 CARACTERÍSTICAS SENSORIAIS:
 Visual: Branca, densa, brilhante e límpida.
 Olfativa: Fina e persistente. Nariz típico de uma cachaça frutada lembrando a própria cana-de-açúcar, além de leves notas metálicas e minerais.
@@ -12862,10 +12515,7 @@ id: 881
 NOME DA CACHAÇA: Cachaça Sebastiana Cristal 500 ml
 PREÇO: R$ 42,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-40%
-prata
-Americo Brasiliense / SP
+DESCRIÇÃO DA CACHAÇA: 500ml 40% prata Americo Brasiliense / SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tipo
@@ -12884,12 +12534,7 @@ id: 882
 NOME DA CACHAÇA: Cachaça Princesa Isabel Jaqueira 500 ml
 PREÇO: R$ 94,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-40%
-jaqueira
-2 anos
-ouro
-Linhares - ES
+DESCRIÇÃO DA CACHAÇA: 500ml 40% jaqueira 2 anos ouro Linhares - ES
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12912,9 +12557,7 @@ id: 883
 NOME DA CACHAÇA: Cachaça Matriarca Jaqueira 750 ml
 PREÇO: R$ 70,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-42%
-barril de jaqueira.
+DESCRIÇÃO DA CACHAÇA: 750ml 42% barril de jaqueira.
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
@@ -12928,8 +12571,7 @@ Visual: Amarelo ouro brilhante com lágrimas homogêneas.
 Aroma: Aromas de frutas amarelas e floral com suave adocicado,
 Pladar. Destaca-se um início alcoólico, combinado com uma leve picância. No final, sua marca é a ad
 stringência extremamente perceptivel e um retrogosto frutado.
-Premiações:
-- 18" lugar no IV Ranking Cúpula da Cachaça 2020; -32 lugar no III Ranking Cúpula da Cachaça, 2018/2020;
+Premiações: - 18" lugar no IV Ranking Cúpula da Cachaça 2020; -32 lugar no III Ranking Cúpula da Cachaça, 2018/2020;
 - Medalha de Ouro no Spirits Selection by Concours Mondial de Bruxelles, 2018 - Medalha de Ouro no San Francisco World Spirits Competition, 2019.
 GRADUAÇÃO ALCOÓLICA: 42%
 TEMPO DE ARMAZENAMENTO: barril de jaqueira.
@@ -12937,12 +12579,7 @@ id: 884
 NOME DA CACHAÇA: Cachaça Xanadu bálsamo 670ml
 PREÇO: R$ 76,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-39%
-castanheira
-6 anos
-premium
-Blumenau / Santa Catarina
+DESCRIÇÃO DA CACHAÇA: 670ml 39% castanheira 6 anos premium Blumenau / Santa Catarina
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12964,11 +12601,7 @@ id: 885
 NOME DA CACHAÇA: Cachaca Paratiana Prata 700ml
 PREÇO: R$ 90,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-38%
-jequitibá
-prata
-Paraty/RJ
+DESCRIÇÃO DA CACHAÇA: 700ml 38% jequitibá prata Paraty/RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -12993,9 +12626,7 @@ id: 886
 NOME DA CACHAÇA: Cachaça Matriarca Amburana 750 ml
 PREÇO: R$ 68,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-42%
-barril de amburana.
+DESCRIÇÃO DA CACHAÇA: 750ml 42% barril de amburana.
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
@@ -13007,16 +12638,14 @@ Tempo de Envelhecimento: 2 anos. Volume: 700 ml.
 Graduação: 42% vol. I Visual: Amarelo ouro intenso.
 Aroma: O aroma lembra infância com cheiro de fazenda, combinando com frutas frescas. Paladar. Na boca, sobressaem as notas de canela e baunilha, com um final de boca apresentando notas
 suaves de especiarias e um leve adocicado.
-Premiações:
- Medalha de Ouro no Spirits Selection by Concours Mondial de Bruxelles, 2019
+Premiações: Medalha de Ouro no Spirits Selection by Concours Mondial de Bruxelles, 2019
 GRADUAÇÃO ALCOÓLICA: 42%
 TEMPO DE ARMAZENAMENTO: barril de amburana.
 id: 887
 NOME DA CACHAÇA: Cachaça Matriarca Cristal 750 ml
 PREÇO: R$ 65,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-42%
+DESCRIÇÃO DA CACHAÇA: 750ml 42%
 descansada em dornas de aço inox.
 tempo de descanso: 1 ano.
 | volume: 750 ml.
@@ -13037,9 +12666,7 @@ id: 888
 NOME DA CACHAÇA: Cachaça Matriarca Bálsamo 750 ml
 PREÇO: R$ 68,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-42%
-barril de bálsamo.
+DESCRIÇÃO DA CACHAÇA: 750ml 42% barril de bálsamo.
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
@@ -13055,9 +12682,7 @@ id: 889
 NOME DA CACHAÇA: Cachaça Pinga Ni Mim Sérgio Reis Blend - 670ml
 PREÇO: R$ 55,90
 VOLUME: 670ml
-DESCRIÇÃO DA CACHAÇA: 670ml
-ouro
-Salinas/ MG
+DESCRIÇÃO DA CACHAÇA: 670ml ouro Salinas/ MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Tipo
 Origem
@@ -13071,12 +12696,7 @@ id: 890
 NOME DA CACHAÇA: Cachaca Paratiana Labareda 750ml
 PREÇO: R$ 187,00
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-40%
-jequitibá e amburana
-2 anos
-ouro
-Paraty/RJ
+DESCRIÇÃO DA CACHAÇA: 750ml 40% jequitibá e amburana 2 anos ouro Paraty/RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13098,12 +12718,7 @@ id: 891
 NOME DA CACHAÇA: Cachaça Sebastiana 2 barricas 700ml
 PREÇO: R$ 346,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-40%
-blend de madeiras (castanheira e carvalho)
-4 anos
-extra premium
-Americo Brasiliense/SP
+DESCRIÇÃO DA CACHAÇA: 700ml 40% blend de madeiras (castanheira e carvalho) 4 anos extra premium Americo Brasiliense/SP
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13125,12 +12740,7 @@ id: 892
 NOME DA CACHAÇA: Cachaça Charmosa de Minas Ouro 980 ML
 PREÇO: R$ 41,90
 VOLUME: 980ml
-DESCRIÇÃO DA CACHAÇA: 980ml
-42%
-cerejeira e garapa amarela
-2 anos
-ouro
-Carangola/MG
+DESCRIÇÃO DA CACHAÇA: 980ml 42% cerejeira e garapa amarela 2 anos ouro Carangola/MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13153,12 +12763,7 @@ id: 893
 NOME DA CACHAÇA: Cachaça Chama Crioula Ouro 600ml
 PREÇO: R$ 58,90
 VOLUME: 600ml
-DESCRIÇÃO DA CACHAÇA: 600ml
-38%
-amburana
-1 ano
-ouro
-Ivoti/RS
+DESCRIÇÃO DA CACHAÇA: 600ml 38% amburana 1 ano ouro Ivoti/RS
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13182,11 +12787,7 @@ id: 894
 NOME DA CACHAÇA: Cachaça Casa Bucco 8 Madeiras 700 ml
 PREÇO: R$ 68,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-38%
-2 anos
-extra premium
-Bento Gonçalves - RS
+DESCRIÇÃO DA CACHAÇA: 700ml 38% 2 anos extra premium Bento Gonçalves - RS
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Tempo de Armazenamento
@@ -13194,8 +12795,7 @@ Tipo
 Origem
 TEXTO DESCRITIVO: Amburana, Balsamo, Cabriuva, Angico, Grapia, Louro, Jequtiba Rosa E Carvalho Americano)
 Envelhecimento: 2 Anos
-Teor Alcoólico: 38%
-Volume:700ml
+Teor Alcoólico: 38% Volume:700ml
 Tipo: Extra Premium
 Origem: Bento Gonçalves - RS
 Possui uma mescla de aromas de baunilha, mel, amêndoas e pistache Causa uma sensação leve e aveludada na boca.
@@ -13207,12 +12807,7 @@ id: 895
 NOME DA CACHAÇA: CACHACA COQUEIRO TRADICIONAL 700 ML
 PREÇO: R$ 58,90
 VOLUME: 700ml
-DESCRIÇÃO DA CACHAÇA: 700ml
-44%
-amendoim
-6 meses
-prata
-Paraty - RJ
+DESCRIÇÃO DA CACHAÇA: 700ml 44% amendoim 6 meses prata Paraty - RJ
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13234,9 +12829,7 @@ id: 896
 NOME DA CACHAÇA: Cachaça Claudionor 1000ml
 PREÇO: R$ 62,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-ouro
-Januária / MG
+DESCRIÇÃO DA CACHAÇA: 1000ml ouro Januária / MG
 INFORMAÇÕESOES TÉCNICAS: Volume
 Tipo
 Origem
@@ -13249,8 +12842,7 @@ id: 897
 NOME DA CACHAÇA: Cachaça Matuta Black Blend 1000 ml
 PREÇO: R$ 68,90
 VOLUME: 1000ml
-DESCRIÇÃO DA CACHAÇA: 1000ml
-39%
+DESCRIÇÃO DA CACHAÇA: 1000ml 39%
 blend de madeiras (jequitibá, jaqueira, castanheira e carvalhos)
 2 anos
 extra premium
@@ -13276,12 +12868,7 @@ id: 898
 NOME DA CACHAÇA: Cachaça Sanhaçu Freijó 600 ml
 PREÇO: R$ 77,90
 VOLUME: 600ml
-DESCRIÇÃO DA CACHAÇA: 600ml
-40%
-freijó
-2 anos
-prata
-Chã Grande - PE
+DESCRIÇÃO DA CACHAÇA: 600ml 40% freijó 2 anos prata Chã Grande - PE
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13290,8 +12877,7 @@ Tipo
 Origem
 Madeira: Freijó
 Envelhecimento: 2 Anos
-Teor Alcoólico: 40%
-Volume:600ml
+Teor Alcoólico: 40% Volume:600ml
 Tipo: Prata
 Origem: Chã Grande - PE
 Transparente, possui uma mescla de aromas florais e de especiarias. No paladar, traz um gosto doce. Além disso, causa uma sensação aveludada e levemente picante na boca. Retrogosto agradável e leve.
@@ -13304,12 +12890,7 @@ id: 899
 NOME DA CACHAÇA: Cachaça Reserva do Gerente Castanha 500ml
 PREÇO: R$ 53,90
 VOLUME: 500ml
-DESCRIÇÃO DA CACHAÇA: 500ml
-42%
-castanheira
-2 anos
-ouro
-Guarapari - ES
+DESCRIÇÃO DA CACHAÇA: 500ml 42% castanheira 2 anos ouro Guarapari - ES
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13332,11 +12913,7 @@ id: 900
 NOME DA CACHAÇA: Cachaça Rio do Engenho Reserva Top 45 750 ml
 PREÇO: R$ 86,90
 VOLUME: 750ml
-DESCRIÇÃO DA CACHAÇA: 750ml
-45%
-bálsamo
-premium
-Ilhéus BA
+DESCRIÇÃO DA CACHAÇA: 750ml 45% bálsamo premium Ilhéus BA
 INFORMAÇÕESOES TÉCNICAS: Volume
 Graduação Alcoólica
 Madeira
@@ -13467,17 +13044,15 @@ Volume: 500ml
 id: 912
 NOME DA CACHAÇA: Cachaça Sabor de Minas Porcelana Premium
 PREÇO: R$ 155,00
-DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.Grad.
-Alcool.
-: 42,0 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.
+Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG) Tempo de Envelhecimento: 2 Anos Conteúdo : 950 ml Garrafa porcelana oval PremiumPrazo de Validade : Indeterminado
 Volume: 950ml
 id: 913
 NOME DA CACHAÇA: Cachaça Sabor de Minas Porcelana Oval Premium
 PREÇO: R$ 139,00
-DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.Grad.
-Alcool.
-: 42,0 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.
+Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG) Tempo de Envelhecimento: 2 Anos Conteúdo : 670 ml Garrafa porcelana oval PremiumPrazo de Validade : Indeterminado
 Volume: 670ml
 Grad Alcool: 42%
@@ -13590,9 +13165,8 @@ Volume: 250ml
 id: 925
 NOME DA CACHAÇA: Cachaça Sabor de Minas Porcelana
 PREÇO: R$ 88,00
-DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.Grad.
-Alcool.
-: 42,0 % Vol.)
+DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.
+Grad. Alcool.: 42,0 % Vol.)
 Produzida na cidade de Salinas(MG) Tempo de Envelhecimento: 2 Anos Conteúdo : 670 ml Garrafa porcelanaPrazo de Validade : Indeterminado
 Volume: 670ml
 id: 926
@@ -13911,10 +13485,9 @@ DESCRIÇÃO DA CACHAÇA: Cachaça PiragibanaUma das mais antigas cachaças de Mi
 id: 961
 NOME DA CACHAÇA: Cachaça Sabor de Minas
 PREÇO: R$ 38,00
-DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.Grad.
-Alcool.
-: 42,0 % Vol.
-)Produzida na cidade de Salinas(MG) Tempo de Envelhecimento: 2 Anos Conteúdo : 500 ml Garrafa Tipo Garrafa Transparente Prazo de Validade : Indeterminado
+DESCRIÇÃO DA CACHAÇA: Esta é um cachaça com envelhecimento por 02 (dois) anos em tóneis de bálsamo e jequitibá,baixíssima acidez e graduação alcoólica de 42 GL , garantem a cachaça Sabor de Minas um agradável e incomparável sabor, destacando-se entre as melhores de Salinas, tanto pelo seu suave paladar como pela sua qualidade.
+Grad. Alcool.: 42,0 % Vol.)
+Produzida na cidade de Salinas(MG) Tempo de Envelhecimento: 2 Anos Conteúdo : 500 ml Garrafa Tipo Garrafa Transparente Prazo de Validade : Indeterminado
 Volume: 500ml
 Grad Alcool: 42%
 Madeira: Balsamo
@@ -13928,8 +13501,7 @@ Com produção limitada e envelhecida por cerca de dez anos em tonéis de bálsa
 São comercializadas no MÁXIMO sete mil garrafas de 600 ml no mercado por ano.
 Com esse método reservado controla-se o estoque da cachaça (envelhecida) disponível para comercialização ao longo do ano.
 Com isso a cachaça tornou-se extremamente valorizada e muito cobiçada.Informações do produtoGrad.
-Alcool.
-: 47 % Vol.)
+Alcool.: 47 % Vol.)
 Envelhecida em tónel: Balsamo Tempo de Envelhecimento: 12 Anos Conteúdo : 600 ml Garrafa : Tradicional Prazo de Validade : Indeterminado Evite o consumo Excessivo de Álcool Cachaça Anísio Santiago is a highly awarded cachaça, elected and praised as the best cachaça in Brazil and in the world.
 It is one of the noble cachaça, easily identified blindly by the striking aroma and unmistakable flavor.
 id: 963
@@ -14249,8 +13821,7 @@ PREMIOS: Eleita por especialistas uma das 50 melhores cachaças do Brasil pelo 4
 id: 997
 NOME DA CACHAÇA: WIBA! Senses Premium 750ml
 PREÇO: R$190,00
-DESCRIÇÃO DA CACHAÇA: WIBA!
-Senses.
+DESCRIÇÃO DA CACHAÇA: WIBA! Senses.
 Quando duas madeiras se juntam, boas histórias estão por vir.
 Com três anos de envelhecimento, você sentirá a suavidade do Carvalho Americano com as notas adocicadas da madeira de Amburana.
 Uma interação perfeita entre olfato e paladar.
