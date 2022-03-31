@@ -32,7 +32,7 @@ from spacy.lang.char_classes import LIST_ICONS, HYPHENS, CURRENCY
 from spacy.lang.char_classes import CONCAT_QUOTES, ALPHA_LOWER, ALPHA_UPPER, ALPHA
 
 
-# ### Carregando os Dados
+# -----------Carregando os Dados---------------------
 # Na marcação IOB o prefixo B- antes de uma tag indica que a tag é o início de um pedaço, e um prefixo I- antes de uma tag indica que a tag está dentro de um pedaço. A tag B é usada somente quando uma tag é seguida por uma tag do mesmo tipo sem tokens O entre elas. Uma tag O indica que um token não pertence a nenhuma entidade/pedaço.
 # O dataset possui 5 atributos: Palavras (são os tokens que frmam a base de dados rotulada manualmente); Rotulo (são as categorias de entidades nomeadas seguidas pelo prefixo do tipo de marcação IOB; Sentenca (um número que represeta a sentença a que determinado token pertence); Inicio (número que representa o inicio de um token dentro de sua respctiva sentença); Fim (número que representa o fim de um token dentro de sua respctiva sentença).
 
@@ -45,11 +45,11 @@ print("Quantidade de tokens no DataSet_IOB",len(dataSet))
 #utilizada no código de conversão do dados no formato de marcação IOB para o formato compreendido pelo spaCy.
 with open("Dados_Utilizados_Para_RotulacaoManual.txt", "r", encoding='utf-8') as file:
     textos = file.read().splitlines()
-print("Quantidade de sentenças do dataSet utilizado para rotulação manual e que originou o dataset IOB:", len(textos))
+#print("Quantidade de sentenças do dataSet utilizado para rotulação manual e que originou o dataset IOB:", len(textos))
 
 
 
-# ### Convertendo os dados do formato IOB para o formato reconhecido pelo spaCy
+# ----------Convertendo os dados do formato IOB para o formato reconhecido pelo spaCy--------------------
 sMarker = 0 #Marcador que referência a qual setença a entidade pertence, ou seja, serve pra pegar o texto da referencia dos tokens no dataset
 s = textos[sMarker]
 dataSetEntrada = []
@@ -87,16 +87,23 @@ print('Quantidade de sentenças rotuladas e não rotuladas utilizadas no treinam
 
 
 
-# ### Dividindo os dados entre treino e teste
-# https://www.kaggle.com/slavaz/spacy-ner-ensemble
 
-# ## Importando modelo
+#-----------------Dividindo a base em treino e teste----------------------------------
+'''TRAIN_DATA,TEST_DATA = train_test_split(dataSetEntrada, train_size=0.70,shuffle=True)
+print('Quantidade de dados para TREINO do modelo:',len(TRAIN_DATA))
+print('Quantidade de dados para TESTE do modelo:',len(TEST_DATA))'''
+
+
+
+# ----------------Importando o pipeline em português do spaCy-----------------------------
 # Carregando o modelo linguistico em português do spaCy (salvo em nlp). Esse modelo já foi baixado anteriormente
 nlp = spacy.load('pt_core_news_sm')
 print ("Modelo carregado '% s'"% nlp)
 
-# ## Customizando o Tokenizador para o modelo de nlp em português
-# Essa função cria um objeto customizado da classe Tokenizer do spacy, para alinhamento dos tokens com a rotulações em alguns casos especiais por exemplo: '-' e '$'.
+
+
+# ---------------Customizando o Tokenizador para o modelo de nlp em português------------------
+# Essa função cria um objeto customizado da classe Tokenizer do spacy, para garantir o alinhamento dos tokens com as rotulações feitas no dataset IOB, em alguns casos especiais por exemplo: '-' e '$'.
 def custom_tokenizer(nlp):    
     infixes = (
         spacy.lang.char_classes.LIST_ELLIPSES
@@ -159,11 +166,11 @@ def custom_tokenizer(nlp):
     custom.add_special_case("...", special_case)
     return custom
 
-
-
-# atribuindo o tokenizador customizado ao modelo nlp
+# tribuindo o tokenizador customizado ao modelo nlp
 nlp.tokenizer = custom_tokenizer(nlp)
-# ### Configurando parâmetros para o treinamento do modelo
+
+
+# -------------------Configurando parâmetros para o treinamento do modelo----------------------------------
 # Obtendo o componente do pipeline (ner) para trabalhar com reconhecimentos de entidades nomeadas
 ner = nlp.get_pipe('ner')
 # Adicionando as categorias de entidade nomeada ao pipeline 'ner' manualmente
@@ -192,67 +199,62 @@ ner.add_label('TEMPO')
         #ner.add_label(ent[2])     
         #print(ent[2])
 #print("Categorias de entidade que o modelo contém:", '\n\n', ner.label_data) #verificando as categorias de entidades nomeadas contidas no pipeline
-# Obtendo os nomes dos componentes que queremos desativar durante o treinamento
+
+# Obtendo os nomes dos componentes que queremos desativar durante o treinamento, para podermos alterar apenas o pipilene 'ner'
 unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe != 'ner']
 
-#Dividindo a base em treino e teste
-#TRAIN_DATA,TEST_DATA = train_test_split(dataSetEntrada, train_size=0.80,shuffle=True)
-#print('Quantidade de dados para TREINO do modelo:',len(TRAIN_DATA))
-#print('Quantidade de dados para TESTE do modelo:',len(TEST_DATA))
-TRAIN_DATA = dataSetEntrada[0:100]
-TEST_DATA = dataSetEntrada[101:200]
 
-# ### Treinando o modelo de reconhecimento de entidades nomeadas
-# O código abaixo realiza o treinamento do modelo de reconhecimento de entidades nomeadas
-primeiraEntradaTerminal =  int(sys.argv[1])
-segundaEntradaTerminal =  float(sys.argv[2])
-terceiraEntradaTerminal =  float(sys.argv[3])
-quartaEntradaTerminal =  float(sys.argv[4])
-quintaEntradaTerminal =  float(sys.argv[5])
+# ------------------------Treinando o modelo de reconhecimento de entidades nomeadas----------------------------------
+TRAIN_DATA=dataSetEntrada[0:200]
+TEST_DATA=dataSetEntrada[201:401]
+
+primeiraEntradaTerminal =  int(sys.argv[1]) #variavel que guarda o valor passado com oentrada no terminal pelo usuário
+segundaEntradaTerminal =  float(sys.argv[2]) #variavel que guarda o valor passado com oentrada no terminal pelo usuário
+terceiraEntradaTerminal =  float(sys.argv[3]) #variavel que guarda o valor passado com oentrada no terminal pelo usuário
+quartaEntradaTerminal =  float(sys.argv[4]) #variavel que guarda o valor passado com oentrada no terminal pelo usuário
+quintaEntradaTerminal =  float(sys.argv[5]) #variavel que guarda o valor passado com oentrada no terminal pelo usuário
 listValuesOfLost = [] #lista para guardar o somatório das percas (losses) de cada lote (batch) treinado e testado internamente pelo algorimto 
-epochs = primeiraEntradaTerminal
+epochs = primeiraEntradaTerminal #variavel que guarda o valor passado com oentrada no terminal pelo usuário
 optimizer = nlp.create_optimizer()
 
+# O código abaixo realiza o treinamento do modelo de reconhecimento de entidades nomeadas
 with nlp.disable_pipes(*unaffected_pipes), warnings.catch_warnings():#inicia a execução do algoritmo desabilitando os pipelines que não devem sofrer alterações
-    warnings.filterwarnings("once", category=UserWarning, module='spacy') #mositra os erros identificados pelo algoritmo
+    warnings.filterwarnings("once", category=UserWarning, module='spacy') #mostra os erros identificados pelo algoritmo
     start=str(date.datetime.now())
-    print(date.datetime.now())
+    print(date.datetime.now())#mostra quando o código começou a ser executado.
     sizes = compounding(segundaEntradaTerminal, terceiraEntradaTerminal, quartaEntradaTerminal) 
-    count=0
+
+    #Esse for se será executado de acordo com a quantidade de vezes de epoca passada pelo usuario no terminal.
     for epoch in range(epochs):
-        examples = TRAIN_DATA
-        random.shuffle(examples)
+        examples = TRAIN_DATA #variavél com todos os dados de treino.
+        random.shuffle(examples) #embaralha as sentenças antes de criar os batchs.
         batches = minibatch(examples, size=sizes) #agrupa os exemplos usando o minibatc do spaCy
-        losses = {}   
-        count_1 = 0
-        count=count+1
-        print("EPOCH: ", count) 
-        for batch in batches: #percorre cada lote de dados para executar o treinamento com os dados rotulados (TRAIN_DATA)
+        losses = {} #dicionario que guardará o somatório das percas do modelo em cada update.
+
+        #No trecho de código abaixo e extraido do batch as sentenças e suas rotulações e colocados em duas variaveis diferentes.
+        for batch in batches:
             texts, annotations = zip(*batch)
-            count_1=count_1+1
-            print('LOTE EM  QUESTÃO', count_1)
-            print('QUANTIDADE DE DADOS NO LOTE', len(batch))
-            print(batch)
             example = []
-            # Atualize o modelo com a iteração de cada texto
-            count_2 = 0
-            for i in range(len(texts)):
-                doc = nlp.make_doc(texts[i])
-                count_2=count_2+1
-                print('NÚMERO DA SENTENÇA SOB ANALISE:', count_2)
-                print('TEXTO SOB ANALISE: ', doc)
-                #print("Rotulacao DOC--->", doc)
-                #print('----------------------------------BREAK------------------------------------------------')
-                example.append(Example.from_dict(doc, annotations[i]))
-                print('TAMNHO DO EXEMPLO', len(example))
-                print(example)
-                # Update the model
-                nlp.update(example, drop=quintaEntradaTerminal, losses=losses,sgd=optimizer)
-            #print('EXEMPLO--->', example)
-            #print('----------------------------------BREAK------------------------------------------------')
-            print('Update realizado...')
-        print("Losses ({}/{})" .format(epoch + 1, epochs), '-', date.datetime.now(), losses)        
-        #esta lista é utilizada para salvar as informações das percas por epoch
+            #print('CONTEÚDO DO BACH')
+            #print(batch)
+
+            # No código abaixo é realizada a atualização do modelo (nlp.update) após a verificação de cada rotulação do modelo versus cada rotulação manual. 
+            for i in range(len(texts)): #com esse for é possivel percorrer cada sentença que existe dentro do batch (lote).
+                doc = nlp.make_doc(texts[i]) #doc é um objeto que contém informações geradas pelo spaCy para sentença [i]. Dentre essas informações tem-se a rotulação feita pelo modelo pré-treinado do spaCy.
+                example.append(Example.from_dict(doc, annotations[i])) #Essa lista é um objeto com o text e a categoria rotulada manualmente.
+                #print('LIST OBJETO COM O TEXTO E A ROTULAÇÃO')
+                #print(example)
+                # Update do modelo
+            print('AVALIACAO DO MODELO ANTES DE ATUALIZAR')
+            calculatedBySpacy = nlp.evaluate(example) 
+            print(calculatedBySpacy, '\n')
+            nlp.update(example, drop=quintaEntradaTerminal, losses=losses,sgd=optimizer)
+            print('AVALIACAO DO MODELO DEPOIS DE ATUALIZAR')
+            calculatedBySpacy = nlp.evaluate(example)
+            print(calculatedBySpacy, '\n')  
+        print("Losses ({}/{})" .format(epoch + 1, epochs), '-', date.datetime.now(), losses)  
+
+        #Essa parte do código não faz parte do treinamento do modelo, ela apenas serve para salvar as informações sobre o somatorio do loss de cada update do modelo e salvar o horario de finalização do algoritmo de treinamento do modelo.        numeracaoEpoca="Epoch ({}/{})" .format(epoch + 1, epochs)
         numeracaoEpoca="Epoch ({}/{})" .format(epoch + 1, epochs)
         perda='Some of losses'+str(losses)
         listValuesOfLost.append((numeracaoEpoca,perda))
@@ -261,9 +263,9 @@ with nlp.disable_pipes(*unaffected_pipes), warnings.catch_warnings():#inicia a e
     print('Processo de treinamento finalizado!')
 
 
+#---------------------------Avaliando o Modelo Treinado--------------------------------------------------------------------
 
-
-# ### Comparação Rotulação Manual e do Modelo
+#Comparação Rotulação feita Manualmente versus feita pelo Modelo
 # Compara item por item como o modelo classificou as sentenças e como elas foram classificadas manual (ponto de referencia).
 #nlp = spacy.load(output_dir)
 examples = []
@@ -277,12 +279,12 @@ for text, annots in TEST_DATA:
     examples.append(Example.from_dict(doc, annots)) 
     #print('Tokens', [(t.text, t.ent_type_, t.ent_iob) for t in doc])
 
-# ### Métricas Precision, Recall e f-measure: 
-# Apresenta o resultados das métricas para o modelo como um todo, e as métricas do modelo para cada categoria de entidade
+# Apresentação das Métricas Precision, Recall e f-measure geradas pelo spaCy
+# Apresenta o resultados das métricas para o modelo como um todo, e as métricas do modelo para cada categoria de entidade nomeada.
 calculatedBySpacy = nlp.evaluate(examples)
 print(calculatedBySpacy)
 
-# ### Avaliação do Modelo pelas Métrica Acuracia
+# Valiação do Modelo pela Métrica Acuracia
 # dictionary which will be populated with the entities and result information
 entity_evaluation = {}
 # helper function to udpate the entity_evaluation dictionary
@@ -302,7 +304,7 @@ for data in TEST_DATA:
                 update_results(ent.label_, "correct")
                 break
         update_results(entity[2], "total")
-print("Resultado para cada categoria:",'\n', entity_evaluation)
+#print("Resultado para cada categoria:",'\n', entity_evaluation)
 
 sum_total = 0
 sum_correct = 0
@@ -317,12 +319,12 @@ for entity in entity_evaluation:
     print("{} | {:.2f}%".format(entity, correct / total * 100))
 sum_accuracy_total = sum_correct / sum_total * 100
 sum_accuracy_total = str(sum_accuracy_total)+'%'
-print("Accuracy by Category: {:.2f}%".format(sum_correct / sum_total * 100))
+#print("Accuracy by Category: {:.2f}%".format(sum_correct / sum_total * 100))
 
 
-#Salvando informações geradas relevantes em um arquivo.txt
-Caminho_e_nome_arquivo = sys.argv[6]+'.txt'
 
+#----------------------------Salvando informações geradas relevantes em um arquivo.txt---------------------------------
+Caminho_e_nome_arquivo = sys.argv[6]+'.txt' #variavel que guarda o valor passado com oentrada no terminal pelo usuário, esse valor é o caminho onde o txt com as mertricas e o modelo serão salvos.
 with open (Caminho_e_nome_arquivo,"w", encoding='utf-8')  as output:
     quantidadeDados = str(len(dataSetEntrada))
     output.write('Quantidade de Sentenças a serem utilizada para treino e teste: '+quantidadeDados+'\n')
@@ -366,8 +368,7 @@ with open (Caminho_e_nome_arquivo,"w", encoding='utf-8')  as output:
     output.write(start+'\n')
     output.write(end)
 
-
-# ## Salvando o Modelo
+#----------------------Salvando o Modelo Treinado---------------------------------
 #from pathlib import Path
 output_dir=Path(Caminho_e_nome_arquivo+'modelo')
 nlp.to_disk(output_dir)
